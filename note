@@ -1,4 +1,15 @@
+如果你想加入翻译的话：
+	F.B.: 你可以发送邮件到FishBoneEK@outlook.com，或者加入Steam组PULSAR: Lost Colony CN。Leafy Games的翻译说明：https://www.pulsarthegame.com/translation-system-guide
+
+如果你刚加入翻译团队的话：
+	F.B.: 作为创始者，我希望这个翻译项目是准确且不失感觉的。也就是说，翻译不失精确度，而且也不为了过度追求精确度而失去原文给人带来的感觉，并且读起来通顺。所以也请按照这个方向翻译吧。此外，PULSAR里有些语句似乎翻译不了，有些语句也压根不在translation.tsv里……
+
+如果你没多少翻译经验的话（F.B.: 虽然这也是我第一次翻译）：
+	F.B.：建议翻译的时候要看上下文，并且不确定意思的话最好先留着不翻译，不然如果意思有差别的话以后不方便改（除非特地做了记录什么的）；专有名词放在这个文件中，而且不确定对应的合适的翻译之前最好也先留着——至少我是这样翻译的
+
+
 scrap: 碎片/废料？
+
 专有名词：
 Sensor Dish: 感应碟
 Colonial Union: 殖民联盟
