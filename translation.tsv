@@ -4968,16 +4968,16 @@ ID	Original Text	Translated Text
 5018	7	7
 5019	8	8
 5020	<<	<<
-5021	Stat List	Stat List
-5022	Ship Type Name	Ship Type Name
+5021	Stat List	状态表
+5022	Ship Type Name	舰船种类名称
 5023	Title	标题
-5024	Language Name	Language Name
-5025	Enter description here ...	Enter description here ...
+5024	Language Name	语言名
+5025	Enter description here ...	在此处输入描述……
 5026	Description	描述
-5027	Path to content folder	Path to content folder
+5027	Path to content folder	内容文件夹路径
 5028	Content Path	内容目录
 5029	Open Folder	打开文件夹
-5030	Content Info	Content Info
+5030	Content Info	内容信息
 5031	Enter path to thumbnail file (jpg/png)	输入缩略图文件路径（jpg/png）
 5032	Thumbnail Path	缩略图目录
 5033	Select File	选择文件
@@ -4987,37 +4987,37 @@ ID	Original Text	Translated Text
 5037	In-Place Language Update	In-Place Language Update
 5038	Right To Left	Right To Left
 5039	Share On Workshop	在创意工坊中共享
-5040	In a galaxy on the fringes of known space, a peculiar transmission was received by every ship and station.	In a galaxy on the fringes of known space, a peculiar transmission was received by every ship and station.
-5041	It spoke of a place called the Lost Colony, a remnant of the Old Wars that harbors a secret—one that may change the course of history forever.	It spoke of a place called the Lost Colony, a remnant of the Old Wars that harbors a secret—one that may change the course of history forever.
-5042	When the message was sent, its coordinates were corrupted—fragmented. To track the transmission’s origin, several pieces of the scattered data must be collected.	When the message was sent, its coordinates were corrupted—fragmented. To track the transmission’s origin, several pieces of the scattered data must be collected.
-5043	Hundreds have set out in search of the Lost Colony, believing the first to find it will attain unparalleled wealth and power.	Hundreds have set out in search of the Lost Colony, believing the first to find it will attain unparalleled wealth and power.
-5044	Some desperate crews seek to acquire these so-called “data fragments” by any means at their disposal.	Some desperate crews seek to acquire these so-called “data fragments” by any means at their disposal.
-5045	However, the frantic hunt for data fragments is not the only stirring of trouble in the galaxy.	However, the frantic hunt for data fragments is not the only stirring of trouble in the galaxy.
-5046	With the intergalactic warp network severed and a pervasive species known as the Infected spreading through the sectors, chaos is rising.	With the intergalactic warp network severed and a pervasive species known as the Infected spreading through the sectors, chaos is rising.
-5047	No one knows what will become of this galaxy or its inhabitants in due time.	No one knows what will become of this galaxy or its inhabitants in due time.
-5048	As officers of the lawful Colonial Union	As officers of the lawful Colonial Union
-5049	employees of the weapons manufacturing W.D. Corporation	employees of the weapons manufacturing W.D. Corporation
-5050	members of the piratical Alliance of Gentlemen	members of the piratical Alliance of Gentlemen
-5051	a delivery crew for the Fluffy Biscuit Company	a delivery crew for the Fluffy Biscuit Company
-5052	or neutral civilians bereft of a faction	or neutral civilians bereft of a faction
-5053	it is up to you to decide what you'll do.	it is up to you to decide what you'll do.
-5054	Will you help restore order?	Will you help restore order?
-5055	Will you plunge the galaxy deeper into chaos?	Will you plunge the galaxy deeper into chaos?
-5056	Or will you join the hunt for the fabled Lost Colony?	Or will you join the hunt for the fabled Lost Colony?
-5057	Damage	Damage
+5040	In a galaxy on the fringes of known space, a peculiar transmission was received by every ship and station.	在星系中已知星域的边缘，每个舰船和空间站都收到了一条与众不同的信息。
+5041	It spoke of a place called the Lost Colony, a remnant of the Old Wars that harbors a secret—one that may change the course of history forever.	这条信息提到了一个叫做失落殖民地的地方，隐匿着一个秘密的远古战争的残留之地——一个可以永远改变历史航向的秘密。
+5042	When the message was sent, its coordinates were corrupted—fragmented. To track the transmission’s origin, several pieces of the scattered data must be collected.	在这条消息发送的时候，它的坐标损坏了——变成了碎片。要追踪传输的源头就得找到几段破损的数据。
+5043	Hundreds have set out in search of the Lost Colony, believing the first to find it will attain unparalleled wealth and power.	上百人动身寻找这失落殖民地，他们相信第一个找到的人会拥有无比的财富与权力。
+5044	Some desperate crews seek to acquire these so-called “data fragments” by any means at their disposal.	一些绝望的船员使用任何手段获取这些所谓的“数据碎片”。
+5045	However, the frantic hunt for data fragments is not the only stirring of trouble in the galaxy.	然而，这失智的搜索不是星系中唯一的麻烦。
+5046	With the intergalactic warp network severed and a pervasive species known as the Infected spreading through the sectors, chaos is rising.	随着星系间跃迁网络断连、无处不在的病体种族蔓延星区，混乱弥漫。
+5047	No one knows what will become of this galaxy or its inhabitants in due time.	没人知道到那时，这个星系和居住在其中的栖息动物会变成什么样。
+5048	As officers of the lawful Colonial Union	作为守序的殖民联盟官员
+5049	employees of the weapons manufacturing W.D. Corporation	武器制造商W.D.公司的雇员
+5050	members of the piratical Alliance of Gentlemen	海盗组织绅士联盟的成员
+5051	a delivery crew for the Fluffy Biscuit Company	毛绒饼干公司的派送船员
+5052	or neutral civilians bereft of a faction	或是不属于任何派系的中立公民
+5053	it is up to you to decide what you'll do.	你所作为将由你决定。
+5054	Will you help restore order?	你会帮助重建秩序
+5055	Will you plunge the galaxy deeper into chaos?	把星系推进更深的混乱
+5056	Or will you join the hunt for the fabled Lost Colony?	还是会加入搜寻传说中的失落殖民地？
+5057	Damage	伤害
 5058	Ammo Refill	弹药补给
-5059	Health	Health
+5059	Health	生命值
 5060	250/250	250/250
-5061	Option 1	Option 1
-5062	Option 2	Option 2
+5061	Option 1	选项1
+5062	Option 2	选项2
 5063	+20	20
 5064	Attempt to make a sale of 20 biscuits. Concludes interaction.	Attempt to make a sale of 20 biscuits. Concludes interaction.
 5065	50%	50%
 5066	No Sale	No Sale
-5067	Too many rejections. Try again later.	Too many rejections. Try again later.
-5068	Rejections	Rejections
+5067	Too many rejections. Try again later.	已被拒绝太多次。等会儿再试试。
+5068	Rejections	拒绝次数
 5069	Randomize	随机化
-5070	Gender	Gender
+5070	Gender	性别
 5071	Male	男性
 5072	Hair Color (Red)	Hair Color (Red)
 5073	Hair Color (Green)	Hair Color (Green)
@@ -5025,10 +5025,10 @@ ID	Original Text	Translated Text
 5075	Tech Color (Blue)	Tech Color (Blue)
 5076	Tech Color (Green)	Tech Color (Green)
 5077	Tech Color (Red)	Tech Color (Red)
-5078	Tech Accessory	Tech Accessory
+5078	Tech Accessory	技术饰品
 5079	Face	脸部
 5080	Hair	发型
-5081	Facial Hair$	Facial Hair$
+5081	Facial Hair$	胡须$
 5082	Low	低
 5083	Medium	中
 5084	High	高
@@ -5037,53 +5037,53 @@ ID	Original Text	Translated Text
 5087	144	144
 5088	90	90
 5089	30	30
-5090	Half Size	Half Size
-5091	Fourth Size	Fourth Size
+5090	Half Size	一半大
+5091	Fourth Size	四分之一大
 5092	60%	60%
 5093	70%	70%
 5094	80%	80%
 5095	90%	90%
 5096	Motion Controllers	Motion Controllers
-5097	Roomscale	Roomscale
+5097	Roomscale	房间大小
 5098	Race/Gender	种族/性别
 5099	Accessory	饰品
 5100	Facial Hair	胡须
 5101	Uniform	制服
-5102	Human Traits	Human Traits
-5103	NEEDS OXYGEN	NEEDS OXYGEN
-5104	INJURED BY ALL HOSTILE ENVIRONMENT TYPES	INJURED BY ALL HOSTILE ENVIRONMENT TYPES
-5105	CAN BE REVIVED ONCE PER JUMP	CAN BE REVIVED ONCE PER JUMP
-5106	ENVIRONMENT IMMUNITIES	ENVIRONMENT IMMUNITIES
-5107	EXTREME HEAT	EXTREME HEAT
-5108	TOXIC	TOXIC
-5109	EXTREME COLD	EXTREME COLD
-5110	NO OXYGEN	NO OXYGEN
+5102	Human Traits	人类特征
+5103	NEEDS OXYGEN	需要氧气
+5104	INJURED BY ALL HOSTILE ENVIRONMENT TYPES	受所有敌对环境种类伤害
+5105	CAN BE REVIVED ONCE PER JUMP	可在每次跳跃后复活
+5106	ENVIRONMENT IMMUNITIES	环境免疫
+5107	EXTREME HEAT	极度高温
+5108	TOXIC	剧毒
+5109	EXTREME COLD	极度低温
+5110	NO OXYGEN	缺氧
 5111	Humans have recovered some of their former glory since the dark ages after the Old Wars, and they have become a prominent intergalactic presence. Their innate drive for exploration has propelled them across many galaxies, discovering new worlds and paving the way for those who would follow. Though they are ill-suited for many environments, their tenacity, ingenuity, and will to survive rival even the most resilient of species.	自远古战争后，人类便已拾回了一些往日的荣耀，并成为星系间重要的存在。他们对探索的内在渴望驱使他们穿过许多星系、发现新世界并为后来者开路。虽然他们无法适应许多环境，他们的坚韧、聪明才智与生存意志使他们甚至可以与恢复力最强的那些种族相匹敌。
-5112	CAN CLOAK SELF FOR SHORT TIME	CAN CLOAK SELF FOR SHORT TIME
-5113	CRITICAL WEAKNESS TO FIRE	CRITICAL WEAKNESS TO FIRE
-5114	IMMUNE TO ZERO OXYGEN AND COLD ENVIRONMENTS	IMMUNE TO ZERO OXYGEN AND COLD ENVIRONMENTS
-5115	LOWER BASE ARMOR	LOWER BASE ARMOR
-5116	Sylvassi Traits	Sylvassi Traits
-5117	Sylvassi home worlds are cold and comprised largely of liquid methane, though many Sylvassi have grown up enclosed in their suits. A good number alive today are part of the first generation born free of the W.D. Corporation labor worlds since the end of the Old Wars. In the past century, more Sylvassi have begun to forge their own paths; some have joined the Colonial Union, others have found sanctuary in the Alliance of Gentlemen, and others still have pursued their own ambitions and joined the W.D. Corporation by choice.	Sylvassi home worlds are cold and comprised largely of liquid methane, though many Sylvassi have grown up enclosed in their suits. A good number alive today are part of the first generation born free of the W.D. Corporation labor worlds since the end of the Old Wars. In the past century, more Sylvassi have begun to forge their own paths; some have joined the Colonial Union, others have found sanctuary in the Alliance of Gentlemen, and others still have pursued their own ambitions and joined the W.D. Corporation by choice.
-5118	Robot Traits	Robot Traits
-5119	IMMUNE TO HOSTILE ENVIRONMENTS	IMMUNE TO HOSTILE ENVIRONMENTS
-5120	CAN BE HEALED WITH REPAIR GUN	CAN BE HEALED WITH REPAIR GUN
-5121	HIGH CARRYING CAPACITY	HIGH CARRYING CAPACITY
-5122	BASE HEALTH OF 60	BASE HEALTH OF 60
-5123	Humanoid robots are common in Colonial Union galaxies, often employed for automated trading stations or labor in conditions that are otherwise dangerous to living organisms. Recently, however, there has been a rise of seemingly sentient machines who are joining crews and fulfilling roles that have been traditionally performed by biological persons. As robots are particularly resistant to hostile environments, they are well-suited for planetary missions and the unexpected perils of work aboard a starship.	Humanoid robots are common in Colonial Union galaxies, often employed for automated trading stations or labor in conditions that are otherwise dangerous to living organisms. Recently, however, there has been a rise of seemingly sentient machines who are joining crews and fulfilling roles that have been traditionally performed by biological persons. As robots are particularly resistant to hostile environments, they are well-suited for planetary missions and the unexpected perils of work aboard a starship.
+5112	CAN CLOAK SELF FOR SHORT TIME	可短时间内自身隐形
+5113	CRITICAL WEAKNESS TO FIRE	对火焰极度脆弱
+5114	IMMUNE TO ZERO OXYGEN AND COLD ENVIRONMENTS	对缺氧和低温环境免疫
+5115	LOWER BASE ARMOR	更低的基础防护值
+5116	Sylvassi Traits	斯瓦锡人特征
+5117	Sylvassi home worlds are cold and comprised largely of liquid methane, though many Sylvassi have grown up enclosed in their suits. A good number alive today are part of the first generation born free of the W.D. Corporation labor worlds since the end of the Old Wars. In the past century, more Sylvassi have begun to forge their own paths; some have joined the Colonial Union, others have found sanctuary in the Alliance of Gentlemen, and others still have pursued their own ambitions and joined the W.D. Corporation by choice.	斯瓦锡人的家园世界冰冷且大部分由液态甲烷组成，不过很多斯瓦锡人都在他们的封闭服中长大。如今世上有一定数量的斯瓦锡人，他们是远古战争结束后免受W.D.公司苦力的第一代的一部分。在过去几个世纪里，更多的斯瓦锡人已开始造就他们自己的道路；有些加入了殖民联盟，有些在绅士联盟中找到了庇护，其他的斯瓦锡人则仍在追求野心，并选择加入了W.D.公司。
+5118	Robot Traits	机器人特征
+5119	IMMUNE TO HOSTILE ENVIRONMENTS	对敌对环境免疫
+5120	CAN BE HEALED WITH REPAIR GUN	可被修理枪治疗
+5121	HIGH CARRYING CAPACITY	高背负容量
+5122	BASE HEALTH OF 60	60点基础生命值
+5123	Humanoid robots are common in Colonial Union galaxies, often employed for automated trading stations or labor in conditions that are otherwise dangerous to living organisms. Recently, however, there has been a rise of seemingly sentient machines who are joining crews and fulfilling roles that have been traditionally performed by biological persons. As robots are particularly resistant to hostile environments, they are well-suited for planetary missions and the unexpected perils of work aboard a starship.	人形机器人在殖民联盟星系中常见，他们在自动交易站或者环境条件对有机生命危险的劳作中受应用。不过在最近，看似有知觉的机器人逐渐出现，他们加入舰员，在以往由真人担任的岗位上工作。机器人对敌对环境尤其具有抵抗力，因此十分适合行星任务和舰船上无法预料的危险工作。
 5124	Human	人类
 5125	Robot	机器人
 5126	Female	女性
-5127	Skin Color	Skin Color
-5128	Faction Preview	Faction Preview
-5129	Saturation	Saturation
-5130	Hue	Hue
-5131	Eye Color	Eye Color
-5132	Lip Color	Lip Color
-5133	Hair Color	Hair Color
-5134	Alt Body Color	Alt Body Color
-5135	Body Color	Body Color
-5136	Visit a Barber Kiosk to edit appearances	Visit a Barber Kiosk to edit appearances
+5127	Skin Color	肤色
+5128	Faction Preview	派系预览
+5129	Saturation	饱和度
+5130	Hue	色调
+5131	Eye Color	瞳色
+5132	Lip Color	唇色
+5133	Hair Color	发色
+5134	Alt Body Color	次要体色
+5135	Body Color	体色
+5136	Visit a Barber Kiosk to edit appearances	前往理发亭编辑外观
 5137	Playership is {0}in Red Alert	Playership is {0}in Red Alert
 5138	NOT 	NOT 
 5139	Playership is {0}in Yellow Alert	Playership is {0}in Yellow Alert

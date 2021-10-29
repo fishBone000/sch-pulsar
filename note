@@ -2,6 +2,7 @@
 	F.B.: 你可以发送邮件到FishBoneEK@outlook.com，或者加入Steam组PULSAR: Lost Colony CN。Leafy Games的翻译说明：https://www.pulsarthegame.com/translation-system-guide
 
 如果你刚加入翻译团队的话：
+	F.B.: 为了能尽快让玩家玩到PULSAR，我们会先在不失原意和通顺的基础上尽快翻译。在完成了翻译之后再开始打磨（也就是说没准整个翻译都要overhaul一遍）。所以也请快快翻译吧~下面的是我的原话，当时还想质量优先来着，等到打磨的时候可以参考下。
 	F.B.: 作为创始者，我希望这个翻译项目是准确且不失感觉的。也就是说，翻译不失精确度，而且也不为了过度追求精确度而失去原文给人带来的感觉，并且读起来通顺。所以也请按照这个方向翻译吧。此外，PULSAR里有些语句似乎翻译不了，有些语句也压根不在translation.tsv里……
 
 如果你没多少翻译经验的话（F.B.: 虽然这也是我第一次翻译）：
@@ -12,8 +13,11 @@ scrap: 碎片/废料？
 
 专有名词：
 Sensor Dish: 感应碟
+Lost Colony: 失落殖民地
 Colonial Union: 殖民联盟
-Fluffy Biscuit: 
+W.D. Corporation: W.D.公司（临时）
+Infested: 病体（临时）
+Fluffy Biscuit: 毛绒饼干（临时）
 # 毛绒饼干？好像发霉了一样
 
 crew: 组员/舰员/房间？
@@ -23,4 +27,7 @@ crew: 组员/舰员/房间？
 比如Captain/Pilot/... must这些，感觉翻译为“XXX必须”怪怪的
 这些条目的ID是9573-9577
 
+条目4996: Chaos is rising.
+
 binary: 双目？
+
