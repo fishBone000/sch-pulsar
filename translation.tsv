@@ -4520,7 +4520,7 @@ ID	Original Text	Translated Text
 4568	Ship Log	Ship Log
 4569	1 fps	1 fps
 4570	Conn	Conn
-4571	Game Name	Game Name
+4571	Game Name	游戏名称
 4572	<	<
 4573	back	back
 4574	PlayerName	PlayerName
@@ -4733,7 +4733,7 @@ ID	Original Text	Translated Text
 4783	ONLINE	在线
 4784	20 / 100 used slots in Steam Cloud	20 / 100 used slots in Steam Cloud
 4785	Page 1 / 4	Page 1 / 4
-4786	Ship Name	Ship Name
+4786	Ship Name	舰船名称
 4787	Ironman Mode	铁人模式
 4788	Is Private Game	Is Private Game
 4789	ENGAGE	ENGAGE
@@ -4807,7 +4807,7 @@ ID	Original Text	Translated Text
 4857	Microphone (Voice Chat)$	麦克风 （语音聊天）$
 4858	Audio Output (Voice Chat)$	音频输出 （语音聊天）$
 4859	Manage Bans	管理黑名单
-4860	Change Region	切换区域
+4860	Change Region	切换地区
 4861	Player Name	玩家名
 4862	Allow Crewmates To View Steam Profile	允许舰员查看Steam资料
 4863	Show Controls	Show Controls
@@ -5084,11 +5084,11 @@ ID	Original Text	Translated Text
 5134	Alt Body Color	次要体色
 5135	Body Color	体色
 5136	Visit a Barber Kiosk to edit appearances	前往理发亭编辑外观
-5137	Playership is {0}in Red Alert	Playership is {0}in Red Alert
-5138	NOT 	NOT 
-5139	Playership is {0}in Yellow Alert	Playership is {0}in Yellow Alert
-5140	Playership is {0}in Green Alert	Playership is {0}in Green Alert
-5141	Current Captain Order is {0}{1}	Current Captain Order is {0}{1}
+5137	Playership is {0}in Red Alert	玩家舰船{0}处于红色警戒
+5138	NOT 	非
+5139	Playership is {0}in Yellow Alert	玩家舰船{0}处于黄色警戒
+5140	Playership is {0}in Green Alert	玩家舰船{0}处于黄色警戒
+5141	Current Captain Order is {0}{1}	舰长现在的命令为 {0}{1}
 5142	 (C	 (C
 5143	)	)
 5144	Hull integrity is less than designated percent.	Hull integrity is less than designated percent.
@@ -6002,7 +6002,7 @@ ID	Original Text	Translated Text
 6844	Shield Generator	护盾发生器
 6845	Teleporter	Teleporter
 6846	Main Thruster	Main Thruster
-6847	Missile Silo	Missile Silo
+6847	Missile Silo	导弹发射井
 6848	Auto Turret	Auto Turret
 6849	Virus	病毒
 6850	Warp Drive	跃迁引擎
@@ -6616,8 +6616,8 @@ ID	Original Text	Translated Text
 7566	's Game	's Game
 7567	LockIcon	LockIcon
 7568	Ship is locked!	Ship is locked!
-7569	OFFLINE MODE	OFFLINE MODE
-7570	ONLINE MODE	ONLINE MODE
+7569	OFFLINE MODE	离线模式
+7570	ONLINE MODE	在线模式
 7571	GalaxySettings	GalaxySettings
 7572	AVAILABLE: Click to unlock	AVAILABLE: Click to unlock
 7573	LOCKED: 	LOCKED: 
@@ -9374,7 +9374,7 @@ ID	Original Text	Translated Text
 10742	Electromagnetic Sensor	Electromagnetic Sensor
 10743	EM	EM
 10744	Provides information on a target ship's systems and power levels.	Provides information on a target ship's systems and power levels.
-10745	Light Frigate	Light Frigate
+10745	Light Frigate	轻型护卫舰
 10746	+30% EM Detection	+30% EM Detection
 10747	+20% Warp Range	+20% Warp Range
 10748	+15% Diplomacy	+15% Diplomacy
@@ -9424,7 +9424,7 @@ ID	Original Text	Translated Text
 10792	Carrier-class starship	Carrier-class starship
 10793	SwitchON	SwitchON
 10794	Scrap is more likely to$contain components	Scrap is more likely to$contain components
-10795	Cargo Hauler	Cargo Hauler
+10795	Cargo Hauler	货运船
 10796	Civilian Ship	Civilian Ship
 10797	ECONOMIC ALL-PURPOSE SPACE VEHICLE	ECONOMIC ALL-PURPOSE SPACE VEHICLE
 10798	Starts at Chaos level 3.0	Starts at Chaos level 3.0
@@ -9434,7 +9434,7 @@ ID	Original Text	Translated Text
 10802	+35% Turret Charge Speed	+35% Turret Charge Speed
 10803	+15% Turret Cooling	+15% Turret Cooling
 10804	+10% Intimidation	+10% Intimidation
-10805	Strike Vessel	Strike Vessel
+10805	Strike Vessel	打击舰
 10806	Deathwarden	Deathwarden
 10807	Ranger	Ranger
 10808	Scout	Scout
@@ -9450,7 +9450,7 @@ ID	Original Text	Translated Text
 10818	[F.B. Company Admin] has remotely disabled the exosuits	[F.B. Company Admin] has remotely disabled the exosuits
 10819	[F.B. Company Admin] has remotely enabled [REDACTED SYSTEM]	[F.B. Company Admin] has remotely enabled [REDACTED SYSTEM]
 10821	SOMETHING IS WRONG	SOMETHING IS WRONG
-10822	Delivery Ship	Delivery Ship
+10822	Delivery Ship	配送船
 10823	Starts at Chaos level 2.0	Starts at Chaos level 2.0
 10825	x 	x 
 10826	Final Table Available	Final Table Available
@@ -9461,7 +9461,7 @@ ID	Original Text	Translated Text
 10831	Sword	Sword
 10832	Powerful forward beam attack \^Sword\^	Powerful forward beam attack \^Sword\^
 10833	Cloaking system priming speed x2	Cloaking system priming speed x2
-10834	Research Vessel	Research Vessel
+10834	Research Vessel	科研船
 10835	Earn 20 levels aligned with the Colonial Union (	Earn 20 levels aligned with the Colonial Union (
 10836	/20 earned)	/20 earned)
 10837	Outrider-class starship	Outrider-class starship
@@ -9474,10 +9474,10 @@ ID	Original Text	Translated Text
 10844	Polytech-class starship	Polytech-class starship
 10845	Drone Overseer	Drone Overseer
 10846	Roland-class starship	Roland-class starship
-10847	Heavy Attack Vessel	Heavy Attack Vessel
+10847	Heavy Attack Vessel	重型攻击舰
 10848	+100% EM SIG	+100% EM SIG
 10849	+25% Shield Recharge Rate	+25% Shield Recharge Rate
-10850	Stealth Transport	Stealth Transport
+10850	Stealth Transport	潜行运输舰
 10851	-50% EM SIG	-50% EM SIG
 10852	swarm_speed	swarm_speed
 10853	HitPS	HitPS
@@ -9488,10 +9488,10 @@ ID	Original Text	Translated Text
 10858	Unseen Fighter	Unseen Fighter
 10859	TempTransfom	TempTransfom
 10860	Earn 20 levels aligned with the W.D. Corp (	Earn 20 levels aligned with the W.D. Corp (
-10861	Prototype	Prototype
+10861	Prototype	原型舰
 10862	Damage to enemies charges shields	Damage to enemies charges shields
 10863	Flaky internal systems	Flaky internal systems
-10864	Armored Warship	Armored Warship
+10864	Armored Warship	装甲战舰
 10865	+20% Turret Damage	+20% Turret Damage
 10866	+50% Armor	+50% Armor
 10867	Guardian	Guardian
