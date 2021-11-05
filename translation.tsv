@@ -3998,8 +3998,8 @@ ID	Original Text	Translated Text
 3997	Artifact Retrieval II	Artifact Retrieval II
 3998	^I’ve happened upon another location that houses an alien artifact. much like the previous one you procured for me. I’ll provide you with its coordinates. Go retrieve it. Now. there’s a small catch—we may not be the first ones to have discovered it. But a little healthy competition never did any harm. correct? Yes. of course. Do your best to secure that artifact. And don’t come back here without it.^	^I’ve happened upon another location that houses an alien artifact. much like the previous one you procured for me. I’ll provide you with its coordinates. Go retrieve it. Now. there’s a small catch—we may not be the first ones to have discovered it. But a little healthy competition never did any harm. correct? Yes. of course. Do your best to secure that artifact. And don’t come back here without it.^
 3999	Reach Warger's Second Secret Sector	Reach Warger's Second Secret Sector
-4000	Scavenge for a Battery	Scavenge for a Battery
-4001	^I’m in dire need of a battery. Working here as long as I have. I know there’s bound to be one unused somewhere in those wastes. But I absolutely refuse to leave my bunker. You’ve seen those wretched. buzzing things outside. haven’t you? They're awful creatures. The last time I mustered enough courage to go out there. they damaged my battery cell. I desperately require a replacement. Find one for me. yes? I’d be tremendously in your debt. And if you manage to exterminate a few of those flying vermin along the way. all the better. I sure won’t miss them.^	^I’m in dire need of a battery. Working here as long as I have. I know there’s bound to be one unused somewhere in those wastes. But I absolutely refuse to leave my bunker. You’ve seen those wretched. buzzing things outside. haven’t you? They're awful creatures. The last time I mustered enough courage to go out there. they damaged my battery cell. I desperately require a replacement. Find one for me. yes? I’d be tremendously in your debt. And if you manage to exterminate a few of those flying vermin along the way. all the better. I sure won’t miss them.^
+4000	Scavenge for a Battery	寻找一个废电池
+4001	^I’m in dire need of a battery. Working here as long as I have. I know there’s bound to be one unused somewhere in those wastes. But I absolutely refuse to leave my bunker. You’ve seen those wretched. buzzing things outside. haven’t you? They're awful creatures. The last time I mustered enough courage to go out there. they damaged my battery cell. I desperately require a replacement. Find one for me. yes? I’d be tremendously in your debt. And if you manage to exterminate a few of those flying vermin along the way. all the better. I sure won’t miss them.^	^我急需一个废电池。我在这里工作，我知道在那些垃圾堆里肯定有一个没用过的。但我坚决拒绝离开我的地堡。你也看到外面那些丑陋、嗡嗡叫的东西，对吧？它们都是些恶心的生物。上次我鼓足勇气出去的时候，它们把我的电池搞坏了。我十分需要一个新的。帮我找一个，好吗？我会欠你一个大大的人情。而且如果你能顺路消灭一些飞来飞去的害虫，那就更好了。我肯定你不会错过它们的。^
 4002	Find a battery in the waste site	Find a battery in the waste site
 4003	Report back to Waste Bot	Report back to Waste Bot
 4004	Stormproof the Base	Stormproof the Base
@@ -6036,6 +6036,7 @@ ID	Original Text	Translated Text
 6914	Can't afford item upgrade. Process more scrap!	Can't afford item upgrade. Process more scrap!
 6918	ITEM UPGRADER	ITEM UPGRADER
 6924	UPGRADE	UPGRADE
+6928	INSTALLED COMPONENT UPGRADER	INSTALLED COMPONENT UPGRADER
 6931	next	next
 6934	prev	prev
 6935	StarSalvage Systems	StarSalvage Systems
