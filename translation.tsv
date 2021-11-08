@@ -700,7 +700,7 @@ ID	Original Text	Translated Text
 699	This is Waste Site-9B31, a Colonial Union designated waste planet. It wasn’t viable for terraforming, so it has since become one of the few dump sites scattered across the galaxy. This particular planet is open to all active factions and has been in operation for well over twenty Union-standard years. Surprisingly enough, even being out here on the fringes of the known universe, the junk has built up to such a copious extent that mountains of waste have sprung into existence over the years.	This is Waste Site-9B31. a Colonial Union designated waste planet. It wasn’t viable for terraforming. so it has since become one of the few dump sites scattered across the galaxy. This particular planet is open to all active factions and has been in operation for well over twenty Union-standard years. Surprisingly enough. even being out here on the fringes of the known universe. the junk has built up to such a copious extent that mountains of waste have sprung into existence over the years.
 700	Planet	Planet
 701	I oversee the waste collection here in this quadrant of the surface. It’s not a very exciting job. Just the junk and me, alone. With occasional dust storms sweeping in and jamming my movable parts. Do you have any idea how many times I have to re-oil my hinges? I yearn for clear blue skies and vibrant vegetation and green grass as far as the visual sensors can see. Ah, well. Only another three decades before I’m transferred.	I oversee the waste collection here in this quadrant of the surface. It’s not a very exciting job. Just the junk and me. alone. With occasional dust storms sweeping in and jamming my movable parts. Do you have any idea how many times I have to re-oil my hinges? I yearn for clear blue skies and vibrant vegetation and green grass as far as the visual sensors can see. Ah. well. Only another three decades before I’m transferred.
-702	Waste Bot	Waste Bot
+702	Waste Bot	垃圾机器人
 703	Ugh, those nasty brutes. I can’t step one foot out of my bunker without them buzzing in my sound receptors. They weren’t always as active as they are now. There used to be a hive a few kilometers from here, but it was destroyed when a W.D. cargo vessel dumped several sheets of damaged hull plating onto the planet’s surface. Outright crushed the hive. Those things have been increasingly aggressive ever since. Then again, for someone like you, they’re nothing a few phase pistols can’t handle. 	Ugh. those nasty brutes. I can’t step one foot out of my bunker without them buzzing in my sound receptors. They weren’t always as active as they are now. There used to be a hive a few kilometers from here. but it was destroyed when a W.D. cargo vessel dumped several sheets of damaged hull plating onto the planet’s surface. Outright crushed the hive. Those things have been increasingly aggressive ever since. Then again. for someone like you. they’re nothing a few phase pistols can’t handle. 
 704	Creatures	Creatures
 705	There must be one out there. I’ve seen plenty of them in the past. You may have to do a little sifting through the junk, but it’s not like all of them are buried beneath twelve meters of scrap metal…most of the time. In any case, if you have a scanner in your possession, it will be quite useful.	There must be one out there. I’ve seen plenty of them in the past. You may have to do a little sifting through the junk. but it’s not like all of them are buried beneath twelve meters of scrap metal…most of the time. In any case. if you have a scanner in your possession. it will be quite useful.
@@ -2434,7 +2434,7 @@ ID	Original Text	Translated Text
 2433	Sorry, I have no more Staman materials in stock.	Sorry. I have no more Staman materials in stock.
 2434	My apologies, but it doesn’t seem like you have enough credits to purchase Staman supplies from my stock. Come back another time then.	My apologies. but it doesn’t seem like you have enough credits to purchase Staman supplies from my stock. Come back another time then.
 2435	Thanks for the trade! I hope it serves you well.	Thanks for the trade! I hope it serves you well.
-2436	Sargastia Tribulen [1000 credits]	Sargastia Tribulen [1000 credits]
+2436	Sargastia Tribulen [1000 credits]	萨加沙三本兰 [1000 credits]
 2437	Looking for something with Stamans, are you? My preferred source is Sargastia Tribulen, since it’s so easy to keep. Do you want to buy a sample? I can part with it for 1000 credits.	Looking for something with Stamans. are you? My preferred source is Sargastia Tribulen. since it’s so easy to keep. Do you want to buy a sample? I can part with it for 1000 credits.
 2438	Stamans [Blue]	Stamans [Blue]
 2439	Sorry, I have no more Aedificiate materials in stock.	Sorry. I have no more Aedificiate materials in stock.
@@ -3975,7 +3975,7 @@ ID	Original Text	Translated Text
 3974	Reach the secret research base	Reach the secret research base
 3975	Investigate whereabouts of the research team	Investigate whereabouts of the research team
 3976	Report back to Kim Solveras in hydroponics lab of Outpost 448	Report back to Kim Solveras in hydroponics lab of Outpost 448
-3977	Artifact Retrieval	Artifact Retrieval
+3977	Artifact Retrieval	收回人工制品
 3978	^I have a contact who is willing to pay generously for alien artifacts. Recently, I may have stumbled upon the location of some ruins, fairly undisturbed. They will undoubtedly contain just the kind of artifacts my interested buyer is looking for. Very valuable. Priceless, even. If you bring me an artifact from that location, I’ll handle the tedious details of the exchange and give you a slice of the profit.^	^I have a contact who is willing to pay generously for alien artifacts. Recently. I may have stumbled upon the location of some ruins. fairly undisturbed. They will undoubtedly contain just the kind of artifacts my interested buyer is looking for. Very valuable. Priceless. even. If you bring me an artifact from that location. I’ll handle the tedious details of the exchange and give you a slice of the profit.^
 3979	Reach Warger's secret sector	Reach Warger's secret sector
 3980	Find the artifact	Find the artifact
@@ -3995,31 +3995,31 @@ ID	Original Text	Translated Text
 3994	^…I’m looking for something. A crystal, called borthix. If you manage to get your hands on a couple samples, I’ll buy from you. Just keep your lips tight about it. Understand?^	^…I’m looking for something. A crystal. called borthix. If you manage to get your hands on a couple samples. I’ll buy from you. Just keep your lips tight about it. Understand?^
 3995	Find borthix crystals	Find borthix crystals
 3996	Report back to Ghogran Varseil on upper level of Outpost 448	Report back to Ghogran Varseil on upper level of Outpost 448
-3997	Artifact Retrieval II	Artifact Retrieval II
+3997	Artifact Retrieval II	收回人工制品II
 3998	^I’ve happened upon another location that houses an alien artifact, much like the previous one you procured for me. I’ll provide you with its coordinates. Go retrieve it. Now, there’s a small catch—we may not be the first ones to have discovered it. But a little healthy competition never did any harm, correct? Yes, of course. Do your best to secure that artifact. And don’t come back here without it.^	^I’ve happened upon another location that houses an alien artifact. much like the previous one you procured for me. I’ll provide you with its coordinates. Go retrieve it. Now. there’s a small catch—we may not be the first ones to have discovered it. But a little healthy competition never did any harm. correct? Yes. of course. Do your best to secure that artifact. And don’t come back here without it.^
 3999	Reach Warger's Second Secret Sector	Reach Warger's Second Secret Sector
 4000	Scavenge for a Battery	寻找一个废电池
 4001	^I’m in dire need of a battery. Working here as long as I have, I know there’s bound to be one unused somewhere in those wastes. But I absolutely refuse to leave my bunker. You’ve seen those wretched, buzzing things outside, haven’t you? They're awful creatures. The last time I mustered enough courage to go out there, they damaged my battery cell. I desperately require a replacement. Find one for me, yes? I’d be tremendously in your debt. And if you manage to exterminate a few of those flying vermin along the way, all the better. I sure won’t miss them.^	^我急需一个废电池。我在这里工作，我知道在那些垃圾堆里肯定有一个没用过的。但我坚决拒绝离开我的地堡。你也看到外面那些丑陋、嗡嗡叫的东西，对吧？它们都是些恶心的生物。上次我鼓足勇气出去的时候，它们把我的电池搞坏了。我十分需要一个新的。帮我找一个，好吗？我会欠你一个大大的人情。而且如果你能顺路消灭一些飞来飞去的害虫，那就更好了。我肯定你不会错过它们的。^
-4002	Find a battery in the waste site	Find a battery in the waste site
-4003	Report back to Waste Bot	Report back to Waste Bot
-4004	Stormproof the Base	Stormproof the Base
-4005	^There's a foul storm brewing, and we have to get this base fortified as soon as possible. The crashed ship nearby is bound to have a few supplies that could be helpful to us. Rations, batteries, pieces of old hull, and even scrap metal would be greatly appreciated.^	^There's a foul storm brewing. and we have to get this base fortified as soon as possible. The crashed ship nearby is bound to have a few supplies that could be helpful to us. Rations. batteries. pieces of old hull. and even scrap metal would be greatly appreciated.^
-4006	Find scrap metal	Find scrap metal
-4007	Find batteries	Find batteries
-4008	Find rations	Find rations
-4009	Report back to Jarkos Stennor	Report back to Jarkos Stennor
-4010	Sensor Repair	Sensor Repair
-4011	^I don’t get much help around the outpost. It can be a difficult place to manage with so few hands. If you’re looking to earn some extra credits, you could retrieve the sensors that are spread out around the perimeter of the outpost. We use the sensors to keep a watchful eye on the native critters, but it’s been a while since we’ve performed maintenance on a good number of those sensors. They’re due for repairs. If you just bring the batteries in for me, it’d be a tremendous help.^	^I don’t get much help around the outpost. It can be a difficult place to manage with so few hands. If you’re looking to earn some extra credits. you could retrieve the sensors that are spread out around the perimeter of the outpost. We use the sensors to keep a watchful eye on the native critters. but it’s been a while since we’ve performed maintenance on a good number of those sensors. They’re due for repairs. If you just bring the batteries in for me. it’d be a tremendous help.^
-4012	Retrieve sensor station batteries for repair	Retrieve sensor station batteries for repair
-4013	Report back to Gar Bastlen	Report back to Gar Bastlen
-4014	Research Specimens	Research Specimens
-4015	^From what I know of Sargastia Tribulen, your best chance to find it would be on a planet with an acidic atmosphere. It’s usually a green, gelatinous substance that gives off a faint glow. As for Waxthorn, it is most likely to be found on planets that are arid or extremely hot. The thorn on the Waxthorn’s pod has been known to cause unpredictable and even lethal effects. Please, exercise caution and it shouldn’t pose you any harm. When you acquire both research samples, bring them back here. I’ll pay you well for all your trouble.^	^From what I know of Sargastia Tribulen. your best chance to find it would be on a planet with an acidic atmosphere. It’s usually a green. gelatinous substance that gives off a faint glow. As for Waxthorn. it is most likely to be found on planets that are arid or extremely hot. The thorn on the Waxthorn’s pod has been known to cause unpredictable and even lethal effects. Please. exercise caution and it shouldn’t pose you any harm. When you acquire both research samples. bring them back here. I’ll pay you well for all your trouble.^
-4016	Find sample of Sargastia Tribulen	Find sample of Sargastia Tribulen
-4017	Find sample of Waxthorn	Find sample of Waxthorn
-4018	Artifact Retrieval III	Artifact Retrieval III
-4019	^You may have already guessed, but I have my eyes set on another ancient curiosity. And given your successful performance in the past, you are most certainly the crew to go fetch it. According to my source, it may take a little…effort to get to the artifact. But you’re a capable lot! I wholeheartedly believe you can surmount whatever hellfire might be thrown at you. Good luck. And don’t make me wait too long.^	^You may have already guessed. but I have my eyes set on another ancient curiosity. And given your successful performance in the past. you are most certainly the crew to go fetch it. According to my source. it may take a little…effort to get to the artifact. But you’re a capable lot! I wholeheartedly believe you can surmount whatever hellfire might be thrown at you. Good luck. And don’t make me wait too long.^
-4020	Reach Warger's Third Secret Sector	Reach Warger's Third Secret Sector
-4021	Clean the Generators	Clean the Generators
+4002	Find a battery in the waste site	在垃圾站寻找一个电池
+4003	Report back to Waste Bot	向垃圾机器人汇报
+4004	Stormproof the Base	抗风加固基地
+4005	^There's a foul storm brewing, and we have to get this base fortified as soon as possible. The crashed ship nearby is bound to have a few supplies that could be helpful to us. Rations, batteries, pieces of old hull, and even scrap metal would be greatly appreciated.^	^一场大风暴正在酝酿，我们得尽快加固这个基地。附近的那艘坠毁的船肯定有能帮上忙的补给。食品、电池、旧船壳，甚至废铁都算不错的了。^
+4006	Find scrap metal	寻找废铁
+4007	Find batteries	寻找电池
+4008	Find rations	寻找食品
+4009	Report back to Jarkos Stennor	向贾可斯·斯坦纳汇报
+4010	Sensor Repair	修理传感器
+4011	^I don’t get much help around the outpost. It can be a difficult place to manage with so few hands. If you’re looking to earn some extra credits, you could retrieve the sensors that are spread out around the perimeter of the outpost. We use the sensors to keep a watchful eye on the native critters, but it’s been a while since we’ve performed maintenance on a good number of those sensors. They’re due for repairs. If you just bring the batteries in for me, it’d be a tremendous help.^	^在前哨站这我得不到多少帮助。用这么点人手打理这个地方有点难度。如果你想赚点钱的话，你可以去把散在前哨站周边的传感器收回来。我们用那些传感器留意本地的小生物，不过距离上次我们维护那堆传感器已经有段时间了。它们需要修理。如果你能就把电池收回给我的话，那就帮上大忙了。^
+4012	Retrieve sensor station batteries for repair	收回传感站电池以进行修理
+4013	Report back to Gar Bastlen	向加·柏斯兰汇报
+4014	Research Specimens	研究标本
+4015	^From what I know of Sargastia Tribulen, your best chance to find it would be on a planet with an acidic atmosphere. It’s usually a green, gelatinous substance that gives off a faint glow. As for Waxthorn, it is most likely to be found on planets that are arid or extremely hot. The thorn on the Waxthorn’s pod has been known to cause unpredictable and even lethal effects. Please, exercise caution and it shouldn’t pose you any harm. When you acquire both research samples, bring them back here. I’ll pay you well for all your trouble.^	^就我对萨加沙三本兰的了解，在具有毒性大气的行星上最容易找到它。它一般是一种绿色、胶状的物质，发着微光。至于蜡梅，它最可能在温和或者极热星球上找到。已知蜡梅的荚上的刺会造成无法预测，并且甚至致死的毒效。还请万分小心，这样就不会造成任何伤害了。当两种研究样本都获取了的时候，把它们带回来。我会为你们遇到的麻烦付薪酬的。^
+4016	Find sample of Sargastia Tribulen	寻找萨加沙三本兰样本
+4017	Find sample of Waxthorn	寻找蜡梅样本
+4018	Artifact Retrieval III	收回人工制品III
+4019	^You may have already guessed, but I have my eyes set on another ancient curiosity. And given your successful performance in the past, you are most certainly the crew to go fetch it. According to my source, it may take a little…effort to get to the artifact. But you’re a capable lot! I wholeheartedly believe you can surmount whatever hellfire might be thrown at you. Good luck. And don’t make me wait too long.^	^你或许已经猜到了，但是我已经把目光放在另一件古物上。而且从你们以往的成功表现来看，你们是获取它的最佳人选。根据我的信息来源，要拿到那件古物得花点……力气。不过你们已经十分可靠了！我完完全全相信你们能克服任何飞向你们的地狱之火。祝好运。另外别让我等太久了。^
+4020	Reach Warger's Third Secret Sector	抵达瓦拉格的第三个秘密区域
+4021	Clean the Generators	清理发电机
 4022	^The generator room was contaminated with greywrack a few weeks back. That stuff spreads fast and is almost impossible to get rid of, so we have to keep cleaning it out every couple days. The generator room is in the tall spherical building outside. My sensors indicate there are six large spots of greywrack. Just pick them up, bring them back here, and I'll dispose of them.^	^The generator room was contaminated with greywrack a few weeks back. That stuff spreads fast and is almost impossible to get rid of. so we have to keep cleaning it out every couple days. The generator room is in the tall spherical building outside. My sensors indicate there are six large spots of greywrack. Just pick them up. bring them back here. and I'll dispose of them.^
 4023	Find the spots of greywrack	Find the spots of greywrack
 4024	Report back to Orsine Selgrom	Report back to Orsine Selgrom
@@ -4480,7 +4480,7 @@ ID	Original Text	Translated Text
 4525	Find 4 data fragments	找到4个数据片段
 4526	Reach the Grand Warp Gate	到达曲速门
 4527	Reach the Lost Colony	到达失落的殖民地
-4529	Artifact Retrieval IV	Artifact Retrieval IV
+4529	Artifact Retrieval IV	收回人工制品IV
 4530	^A few weeks ago, I sent a team to retrieve a particular alien artifact, but they refused to continue the job. They claimed to have nearly broken their regeneration atrium trying to 'find the right path'. I'm not sure what they were complaining about, but I doubt it's anything you can't handle.^	^A few weeks ago. I sent a team to retrieve a particular alien artifact. but they refused to continue the job. They claimed to have nearly broken their regeneration atrium trying to 'find the right path'. I'm not sure what they were complaining about. but I doubt it's anything you can't handle.^
 4531	Reach Warger's Fourth Secret Sector	Reach Warger's Fourth Secret Sector
 4532	Grey Huntsmen Reward	Grey Huntsmen Reward
@@ -8984,7 +8984,7 @@ ID	Original Text	Translated Text
 10162	A sharp, dark mineral that has glowing slivers in its surface. It feels hot to the touch.	A sharp, dark mineral that has glowing slivers in its surface. It feels hot to the touch.
 10163	Bulbtooth	Bulbtooth
 10164	A round bulb with a circling pattern of light blue spines. Its exterior is hard and almost rock-like, while its spines are sharp enough to cut through an exosuit if not careful.	A round bulb with a circling pattern of light blue spines. Its exterior is hard and almost rock-like, while its spines are sharp enough to cut through an exosuit if not careful.
-10165	Sargastia Tribulen	Sargastia Tribulen
+10165	Sargastia Tribulen	萨加沙三本兰
 10166	Green, viscous substance that is believed to be the product of the complex decomposition of a certain plant. It is very nutrient-rich.	Green, viscous substance that is believed to be the product of the complex decomposition of a certain plant. It is very nutrient-rich.
 10167	LL-09332	LL-09332
 10168	A gritty, reddish substance with unknown origins. It has been banned from research at many laboratories due to its volatile properties.	A gritty, reddish substance with unknown origins. It has been banned from research at many laboratories due to its volatile properties.
@@ -9913,7 +9913,7 @@ ID	Original Text	Translated Text
 11282	Olem Soi	Olem Soi
 11283	Naldeck Tirowano	Naldeck Tirowano
 11284	Rezoh Pallack	Rezoh Pallack
-11285	Jarkos Stennor	Jarkos Stennor
+11285	Jarkos Stennor	贾可斯·斯坦纳
 11286	Mia Treman	Mia Treman
 11287	Abnormal signatures detected.	Abnormal signatures detected.
 11288	Warp coil refinery.	Warp coil refinery.
@@ -9932,7 +9932,7 @@ ID	Original Text	Translated Text
 11301	Gilius Mile	Gilius Mile
 11302	Tolnev Modd	Tolnev Modd
 11303	Brenna Ilario	Brenna Ilario
-11304	Gar Bastlen	Gar Bastlen
+11304	Gar Bastlen	加·柏斯兰
 11305	Yazek Gardi	Yazek Gardi
 11306	Baviel Hascore	Baviel Hascore
 11307	Ivok Milligan	Ivok Milligan
