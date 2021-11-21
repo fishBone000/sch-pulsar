@@ -2013,8 +2013,8 @@ ID	Original Text	Translated Text
 2012	Working right now. As much as I’d like to chat, I’m busy.	Working right now. As much as I’d like to chat. I’m busy.
 2013	How are things out in the galaxy? We’re a bit cut off here. Don’t get much news besides what transport crews like you bring us. 	How are things out in the galaxy? We’re a bit cut off here. Don’t get much news besides what transport crews like you bring us. 
 2014	You got the creature to Gellim? What a relief! Thanks for your help. At least someone in this galaxy can do a job correctly.	You got the creature to Gellim? What a relief! Thanks for your help. At least someone in this galaxy can do a job correctly.
-2015	You have the coordinates. Just deliver the creature to Gellim Sinder. He'll know what to do.	You have the coordinates. Just deliver the creature to Gellim Sinder. He'll know what to do.
-2016	Yes! I like your dedication. Let me give you the coordinates, and then get that thing far away from this station. Talk to Gellim Sinder when you get to the sector. I’ll try to send a message ahead of you and work out the details. Thanks for your help, and good luck. I hope that thing doesn’t break out of its crate or anything. 	Yes! I like your dedication. Let me give you the coordinates. and then get that thing far away from this station. Talk to Gellim Sinder when you get to the sector. I’ll try to send a message ahead of you and work out the details. Thanks for your help. and good luck. I hope that thing doesn’t break out of its crate or anything. 
+2015	You have the coordinates. Just deliver the creature to Gellim Sinder. He'll know what to do.	You have the coordinates. Just deliver the creature to 戈林·辛德. He'll know what to do.
+2016	Yes! I like your dedication. Let me give you the coordinates, and then get that thing far away from this station. Talk to Gellim Sinder when you get to the sector. I’ll try to send a message ahead of you and work out the details. Thanks for your help, and good luck. I hope that thing doesn’t break out of its crate or anything. 	Yes! I like your dedication. Let me give you the coordinates. and then get that thing far away from this station. Talk to 戈林·辛德 when you get to the sector. I’ll try to send a message ahead of you and work out the details. Thanks for your help. and good luck. I hope that thing doesn’t break out of its crate or anything.
 2017	All right, I get the point. 	All right. I get the point. 
 2018	Are you sure you can’t transport the creature one last time? Like I said, I’ll pay you extra.	Are you sure you can’t transport the creature one last time? Like I said. I’ll pay you extra.
 2019	Not even for extra credits? Is that thing really so difficult to manage? Damn, I’m in for some trouble. I’ll keep it for now and figure out what to do with it. Thanks for bringing it here, I guess. Tell Jela I’m never hiring him again. 	Not even for extra credits? Is that thing really so difficult to manage? Damn. I’m in for some trouble. I’ll keep it for now and figure out what to do with it. Thanks for bringing it here. I guess. Tell Jela I’m never hiring him again. 
@@ -4028,23 +4028,23 @@ ID	Original Text	Translated Text
 4027	Find a sandshark egg	Find a sandshark egg
 4028	Report back to Edwina Coris	Report back to Edwina Coris
 4029	Clear the Mines	Clear the Mines
-4030	^We are in great need of assistance right now. Not long ago, our miners discovered a large deposit of an alien ore in the caves. The ore emitted a strange noise when they first unearthed it, and none of our equipment was able to remove little more than stray fragments from the central vein. Earlier today, insect-like creatures burrowed their way through the mines and have now taken it over. They seem drawn to that strange ore. I don’t know what to do about the ore, but if nothing is done to rid of those creatures, I fear we could lose the mines entirely.^	^We are in great need of assistance right now. Not long ago. our miners discovered a large deposit of an alien ore in the caves. The ore emitted a strange noise when they first unearthed it. and none of our equipment was able to remove little more than stray fragments from the central vein. Earlier today. insect-like creatures burrowed their way through the mines and have now taken it over. They seem drawn to that strange ore. I don’t know what to do about the ore. but if nothing is done to rid of those creatures. I fear we could lose the mines entirely.^
-4031	Eliminate hostile creatures from the mines	Eliminate hostile creatures from the mines
-4032	Report back to Gosia Randall	Report back to Gosia Randall
-4033	Collect an Egg	Collect an Egg
-4034	^As you may have already noticed, this planet is home to some rather intriguing creatures. Although my initial interests were in the flora of this world, I’ve since become fascinated by the native animals living in the area. I’d like to study them—in particular, their embryonic development—but I haven’t been able to get close to one of their nests. That’s where you come in. I want to borrow one of the animals’ eggs. Since I don’t have an Atrium, I can’t afford the risk of retrieving an egg myself. If you could find an egg and bring it back for me, I’ll pay you 2,000 credits.^	^As you may have already noticed. this planet is home to some rather intriguing creatures. Although my initial interests were in the flora of this world. I’ve since become fascinated by the native animals living in the area. I’d like to study them—in particular. their embryonic development—but I haven’t been able to get close to one of their nests. That’s where you come in. I want to borrow one of the animals’ eggs. Since I don’t have an Atrium. I can’t afford the risk of retrieving an egg myself. If you could find an egg and bring it back for me. I’ll pay you 2.000 credits.^
-4035	Find a xenoraptor egg	Find a xenoraptor egg
-4036	Report back to Gellim Sinder	Report back to Gellim Sinder
-4037	Retrieve Ore Sample	Retrieve Ore Sample
-4038	^With the native creatures being so attracted to the ore, I haven’t been able to leave the inside of the station for some time now. I would never be able to fend them off myself. Another sample of the ore is all I need to continue my research. If you go through the main doors on this level of the station, you’ll find yourself in the cave system where the ore pillars are located. Any loosened fragment of the ore will do nicely.^	^With the native creatures being so attracted to the ore. I haven’t been able to leave the inside of the station for some time now. I would never be able to fend them off myself. Another sample of the ore is all I need to continue my research. If you go through the main doors on this level of the station. you’ll find yourself in the cave system where the ore pillars are located. Any loosened fragment of the ore will do nicely.^
-4039	Find ore sample	Find ore sample
-4040	Report back to Geoffrey Ebsen	Report back to Geoffrey Ebsen
-4041	Clear the Crash Site	Clear the Crash Site
-4042	^Competitors of ours crash-landed a ship nearby and have been persistently attacking our facility. Our work has slowed to a halt, and their interference is costing us thousands of credits a day. Those bots need to go. If you can get rid of them, you can walk out of here with another 3,000 credits to your name.^	^Competitors of ours crash-landed a ship nearby and have been persistently attacking our facility. Our work has slowed to a halt. and their interference is costing us thousands of credits a day. Those bots need to go. If you can get rid of them. you can walk out of here with another 3.000 credits to your name.^
-4043	Eliminate bots at crash site	Eliminate bots at crash site
-4044	Report back to DR-781	Report back to DR-781
-4045	Find Sensor Logs	Find Sensor Logs
-4046	^My colleagues decided to step through the portal and gather data from the other side. We hoped that with such information, we could discover a way to close it once and for all. But they never returned. I fear something terrible happened to them, but I know if I enter the rift I won't stand a chance. If you think you handle whatever is on the other side of the portal, please, find those sensor logs and bring them back to me. I need to put an end to this before it's too late.^	^My colleagues decided to step through the portal and gather data from the other side. We hoped that with such information. we could discover a way to close it once and for all. But they never returned. I fear something terrible happened to them. but I know if I enter the rift I won't stand a chance. If you think you handle whatever is on the other side of the portal. please. find those sensor logs and bring them back to me. I need to put an end to this before it's too late.^
+4030	^We are in great need of assistance right now. Not long ago, our miners discovered a large deposit of an alien ore in the caves. The ore emitted a strange noise when they first unearthed it, and none of our equipment was able to remove little more than stray fragments from the central vein. Earlier today, insect-like creatures burrowed their way through the mines and have now taken it over. They seem drawn to that strange ore. I don’t know what to do about the ore, but if nothing is done to rid of those creatures, I fear we could lose the mines entirely.^	^我们现在急需帮助。不久之前，我们的矿工在洞穴里发现了大量的异星矿藏。在我们挖出矿石的时候，那些矿石发出了奇怪的噪音，而且我们所有的装备都只能从主矿脉凿出零星的碎片。今天早些时候，昆虫状的生物在矿井里挖洞，还占据了矿井。看起来他们对那些奇异的矿石很着迷。我不知道怎么处理那些矿石，但如果那帮生物一直在那的话，什么都干不了。恐怕我们要失去所有的矿洞了。^
+4031	Eliminate hostile creatures from the mines	消灭矿井中的敌对生物
+4032	Report back to Gosia Randall	向歌西亚·兰道尔汇报
+4033	Collect an Egg	收集生物蛋
+4034	^As you may have already noticed, this planet is home to some rather intriguing creatures. Although my initial interests were in the flora of this world, I’ve since become fascinated by the native animals living in the area. I’d like to study them—in particular, their embryonic development—but I haven’t been able to get close to one of their nests. That’s where you come in. I want to borrow one of the animals’ eggs. Since I don’t have an Atrium, I can’t afford the risk of retrieving an egg myself. If you could find an egg and bring it back for me, I’ll pay you 2,000 credits.^	^或许你已经注意到了，一些引人好奇的生物居住在这个星球上。虽然我一开始对这个世界的植物感兴趣，但之后我就对这片区域的本土动物着迷了。我想研究它们——尤其是他们的胚胎期发育——但我一直都没法靠近它们的巢穴。这就是你们来的原因。我想借一颗那种动物的蛋。我没中庭，所以我不能自己冒着危险找一颗蛋。如果你们能找颗蛋并带给我，我会付你们2,000 Cr。
+4035	Find a xenoraptor egg	寻找一颗异星猛禽的蛋
+4036	Report back to Gellim Sinder	向戈林·辛德汇报
+4037	Retrieve Ore Sample	获取矿石样本
+4038	^With the native creatures being so attracted to the ore, I haven’t been able to leave the inside of the station for some time now. I would never be able to fend them off myself. Another sample of the ore is all I need to continue my research. If you go through the main doors on this level of the station, you’ll find yourself in the cave system where the ore pillars are located. Any loosened fragment of the ore will do nicely.^	^那些本土生物对矿石太着迷了，这段时间我都没法离开这个站点。我完全没法避开它们。再来一个矿石样本，我就能继续研究了。如果你们走出站点这一层的主门的话，就能到矿石柱所在的洞穴系统了。任何松垮的矿石碎片都可以。^
+4039	Find ore sample	寻找矿石样本
+4040	Report back to Geoffrey Ebsen	向杰弗里·艾布森汇报
+4041	Clear the Crash Site	清理坠毁现场
+4042	^Competitors of ours crash-landed a ship nearby and have been persistently attacking our facility. Our work has slowed to a halt, and their interference is costing us thousands of credits a day. Those bots need to go. If you can get rid of them, you can walk out of here with another 3,000 credits to your name.^	^我们的竞争者的一艘船在这附近坠毁了，并且一直在攻击我们的设施。我们的工作停摆了，而且他们的干扰害得我们每天损失几千Cr。那些机器人得消失。如果你们能除掉他们，你们就能带着自己名下多出来的3,000 Cr走出这。^
+4043	Eliminate bots at crash site	消灭坠毁现场的机器人
+4044	Report back to DR-781	向DR-781汇报
+4045	Find Sensor Logs	寻找传感器日志
+4046	^My colleagues decided to step through the portal and gather data from the other side. We hoped that with such information, we could discover a way to close it once and for all. But they never returned. I fear something terrible happened to them, but I know if I enter the rift I won't stand a chance. If you think you handle whatever is on the other side of the portal, please, find those sensor logs and bring them back to me. I need to put an end to this before it's too late.^	^我的同事们决定穿过传送门，并在另一头采集数据。我们希望有了那些信息，我们就能找到一个一劳永逸的办法关掉那传送门。但他们一直没回来。我怕他们发生了某些糟糕的事情，但我知道如果我进入了裂隙，我一点机会都没有。如果你们觉得你们能处理传送门另一边的任何事，拜托你们，找到传感器日志，带回来。我要在这一切都太迟了之前结束这一切。^
 4047	Find sensor logs beyond the dimensional rift	Find sensor logs beyond the dimensional rift
 4048	Report back to Davorm Vicario	Report back to Davorm Vicario
 4049	Scour for IU-03020	Scour for IU-03020
@@ -4190,7 +4190,7 @@ ID	Original Text	Translated Text
 4198	Move Live Cargo Elsewhere	Move Live Cargo Elsewhere
 4199	^What? You brought that thing here?! Jela was supposed to hold it for another week! I haven’t worked out the arrangements of where to put it yet! What am I supposed to do with it now? I can’t keep it under my bunk. But you…you could take it. Just bring it to a friend of mine at a base not far from here. Easy journey. I’ll pay you extra.^	^What? You brought that thing here?! Jela was supposed to hold it for another week! I haven’t worked out the arrangements of where to put it yet! What am I supposed to do with it now? I can’t keep it under my bunk. But you…you could take it. Just bring it to a friend of mine at a base not far from here. Easy journey. I’ll pay you extra.^
 4200	Reach research base	Reach research base
-4201	Report to Gellim Sinder	Report to Gellim Sinder
+4201	Report to Gellim Sinder	向戈林·辛德汇报
 4202	Fetch Borthix	Fetch Borthix
 4203	^A large shipment of borthix came into the Estate recently, but there was a mix up over who owns the damn shipping crates. It’s taking too long to sort out this complication, and I need another shipment of borthix immediately to keep up with production. Your job is to go to one of our affiliated mining facilities and pick up the borthix. It’ll be two crates, so free up space in your cargo hold. One of the workers down in the Estate’s cargo bay will have a spot open for the crates, conveniently out of the Caretaker’s line of sight. Report to him when you get the stock.^	^A large shipment of borthix came into the Estate recently. but there was a mix up over who owns the damn shipping crates. It’s taking too long to sort out this complication. and I need another shipment of borthix immediately to keep up with production. Your job is to go to one of our affiliated mining facilities and pick up the borthix. It’ll be two crates. so free up space in your cargo hold. One of the workers down in the Estate’s cargo bay will have a spot open for the crates. conveniently out of the Caretaker’s line of sight. Report to him when you get the stock.^
 4204	Reach borthix mining facility	Reach borthix mining facility
@@ -9981,7 +9981,7 @@ ID	Original Text	Translated Text
 11350	J-261	J-261
 11351	Aben Randall	Aben Randall
 11352	Niven Menno	Niven Menno
-11353	Gosia Randall	Gosia Randall
+11353	Gosia Randall	歌西亚·兰道尔
 11354	Iskon Nemec	Iskon Nemec
 11355	Storeroom	Storeroom
 11356	Secret Shop	Secret Shop
@@ -10109,7 +10109,7 @@ ID	Original Text	Translated Text
 11478	Halli Asemo	Halli Asemo
 11479	Isael Tavesh	Isael Tavesh
 11480	Abandoned cryogenic facility.	Abandoned cryogenic facility.
-11481	Gellim Sinder	Gellim Sinder
+11481	Gellim Sinder	戈林·辛德
 11482	Unknown structure detected.	Unknown structure detected.
 11483	Forward Teleporter	Forward Teleporter
 11484	Rakos Varn	Rakos Varn
@@ -10124,7 +10124,7 @@ ID	Original Text	Translated Text
 11493	DR-782	DR-782
 11494	SENSOR MALFUNCTION.	SENSOR MALFUNCTION.
 11495	Abandoned Base	Abandoned Base
-11496	Geoffrey Ebsen	Geoffrey Ebsen
+11496	Geoffrey Ebsen	杰弗里·艾布森
 11497	Stiltz and Shanders	Stiltz and Shanders
 11498	Crashed starship detected.	Crashed starship detected.
 11499	Survace	Survace
