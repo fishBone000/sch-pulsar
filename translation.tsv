@@ -4056,7 +4056,7 @@ ID	Original Text	Translated Text
 4055	Fly up to the comms tower and identify the problem	飞上通讯塔并确定问题所在
 4056	Report back to Radmus Stenger	向拉德马斯·斯登格汇报
 4057	Help the Terraforming Station	协助地形改造站
-4058	^A storm swept through here not too long ago, and it revealed a rocky hole in the ground near the station. When we lowered a cord down to investigate it, we discovered a small cave and saw something glowing deeper inside. However, we didn’t get a good look at it before the drones swarmed us. Ever since we found that cave, the drones have been circling the station and setting off our sensors. It’s becoming difficult to get work done, and we still don’t know what that glowing object was. If you’re willing to do me a favor, clear out the drones around the station and bring back that glowing object from the cave. I’ll pay you 2000 credits.^	^不久之前风暴席卷这里，在改造站附近的一个地中岩洞因此露了出来。在我们放下绳索想调查一下的时候，我们发现了一个小洞穴，还看到深处有什么东西发着微光。不过，我们还没看清就有一群无人机围了上来。自从我们发现洞穴之后，那些无人机就一直绕着改造站转来转去，时不时触发我们的传感器。作业越来越难进行了，而且我们还不知道那个发光物体是什么。如果你能帮我们，就除掉改造站附近的无人机，再把那个发光物体带回来。我会付你们2000 Cr。^
+4058	^A storm swept through here not too long ago, and it revealed a rocky hole in the ground near the station. When we lowered a cord down to investigate it, we discovered a small cave and saw something glowing deeper inside. However, we didn’t get a good look at it before the drones swarmed us. Ever since we found that cave, the drones have been circling the station and setting off our sensors. It’s becoming difficult to get work done, and we still don’t know what that glowing object was. If you’re willing to do me a favor, clear out the drones around the station and bring back that glowing object from the cave. I’ll pay you 2000 credits.^	^不久之前风暴席卷这里，在改造站附近的$$一个地中岩洞因此露了出来。在我们放下绳索想$$调查一下的时候，我们发现了一个小洞穴，$$还看到深处有什么东西发着微光。不过，$$我们还没看清就有一群无人机围了上来。$$自从我们发现洞穴之后，那些无人机就一直$$绕着改造站转来转去，时不时触发我们的传感器。$$作业越来越难进行了，而且我们还不知道$$那个发光物体是什么。如果你能帮我们，$$就除掉改造站附近的无人机，再把那个发光物体带回来。$$我会付你们2000 Cr。^
 4059	Eliminate drones outside the station	消灭改造站外的无人机
 4060	Find glowing object in the cave	寻找洞穴中的发光物体
 4061	Report back to Ritrana Sayr	向理查那·萨耶汇报
@@ -4073,32 +4073,32 @@ ID	Original Text	Translated Text
 4072	Help CU Roland in Alliance Ambush	在伏击同盟会行动中协助殖联的罗兰号
 4073	Destroy The Avarice	摧毁贪婪号
 4074	Destroy The Hull Render	摧毁船漆号
-4075	Search Deserted Carrier	Search Deserted Carrier
-4076	Plunder the abandoned ship.	Plunder the abandoned ship.
-4077	Unknown Ship	Unknown Ship
-4078	Enter cargo hold of abandoned ship	Enter cargo hold of abandoned ship
-4079	Join the Ambush	Join the Ambush
-4080	Colonial Union Roland on route through contested sector. Join Gentlemen ambush and split the profits three ways.	Colonial Union Roland on route through contested sector. Join Gentlemen ambush and split the profits three ways.
+4075	Search Deserted Carrier	搜寻废弃货船
+4076	Plunder the abandoned ship.	劫掠废弃船只
+4077	Unknown Ship	未知舰船
+4078	Enter cargo hold of abandoned ship	进入废弃船只的货舱
+4079	Join the Ambush	加入伏击战
+4080	Colonial Union Roland on route through contested sector. Join Gentlemen ambush and split the profits three ways.	航线上的殖民联盟罗兰号驶入了受争夺的星区。$$加入绅士同盟会的伏击，收益分三份。
 4081	The Avarice	贪婪号
-4082	Destroy the U.S.S. Gallantry	Destroy the U.S.S. Gallantry
-4083	Intercept Cargo Shipment	Intercept Cargo Shipment
-4084	Help intercept the W.D. cargo shipment.	Help intercept the W.D. cargo shipment.
+4082	Destroy the U.S.S. Gallantry	摧毁U.S.S. 英勇号
+4083	Intercept Cargo Shipment	货运拦截
+4084	Help intercept the W.D. cargo shipment.	协助拦截W.D.货运船。
 4085	Ratorior	Ratorior
-4086	Destroy Unit 91, Div #2	Destroy Unit 91. Div #2
-4087	Destroy Unit 94, Div #2	Destroy Unit 94. Div #2
-4088	Reclaim W.D. Cargo	Reclaim W.D. Cargo
-4089	Wolden-Dorf HQ	沃顿·多夫  总部
+4086	Destroy Unit 91, Div #2	摧毁Unit 91, Div #2
+4087	Destroy Unit 94, Div #2	摧毁Unit 94, Div #2
+4088	Reclaim W.D. Cargo	取回W.D.的货物
+4089	Wolden-Dorf HQ	沃顿·多夫总部
 4090	Eliminate The Retribution and retrieve cargo	Eliminate The Retribution and retrieve cargo
-4091	Eliminate Intruder	Eliminate Intruder
-4092	CU Intrepid entered W.D. space, violating galactic zone laws. Eliminate intruder.	CU Intrepid entered W.D. space. violating galactic zone laws. Eliminate intruder.
-4093	Destroy the U.S.S. Cora	Destroy the U.S.S. Cora
-4094	Defend Mining Base	Defend Mining Base
-4095	Destroy The Conquest	Destroy The Conquest
+4091	Eliminate Intruder	消灭入侵者
+4092	CU Intrepid entered W.D. space, violating galactic zone laws. Eliminate intruder.	殖联无畏号已进入W.D.空域，违反星际区域法。消灭入侵者。
+4093	Destroy the U.S.S. Cora	摧毁U.S.S. 科拉号
+4094	Defend Mining Base	防守采矿基地
+4095	Destroy The Conquest	摧毁征服号
 4096	Eliminate metal bandits inside mining base	Eliminate metal bandits inside mining base
 4097	Hunt Down Hostile Drones	追捕敌方无人机
 4098	Destroy the hacked security drones	摧毁被黑的安全无人机
-4099	Investigate Unmanned W.D. Unit	Investigate Unmanned W.D. Unit
-4100	W.D. Destroyer discovered unmanned in nearby sector. Investigate cause of malfunction.	W.D. Destroyer discovered unmanned in nearby sector. Investigate cause of malfunction.
+4099	Investigate Unmanned W.D. Unit	调查无人W.D.单位
+4100	W.D. Destroyer discovered unmanned in nearby sector. Investigate cause of malfunction.	附近星区中发现无人W.D.驱逐舰。调查故障原因。
 4101	Search the ship for cause of failure	Search the ship for cause of failure
 4102	Investigate Abandoned Intrepid	Investigate Abandoned Intrepid
 4103	Determine cause of failure in abandoned CU Intrepid-class starship. 	Determine cause of failure in abandoned CU Intrepid-class starship. 
