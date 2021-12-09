@@ -267,7 +267,7 @@ ID	Original Text	Translated Text
 266	Whatever you do out there, be sure you have enough fuel to make it back. I've heard too many stories of ships getting stranded. And even if someone locates your distress signal, you never know if they're friendly. One Alliance group waited to starve out a stranded crew, and then stripped the vessel after they were all dead. Make sure that's not your end.	无论你在那里做什么.都要确保你有足够的燃料来返回.我听过太多船只被搁浅的故事.即使有人找到了你的求救信号.你也不知道他们是否友好.有一个联盟组织.他们就这样看着即将饿死一个被困船员.然后在他死了之后把船给扒了.请确保这不是你的结局.
 267	Someone told me the Infected situation is going to get worse. I don’t know how many more complications this outpost can handle.	有人告诉我感染者的情况会越来越糟.我不知道这个前哨站还能处理多少复杂情况.
 268	It's always a pleasure to meet another Grey Huntsman in person. Good luck with the hunt.	能亲自见到另一位灰衣猎手总是很高兴.祝你在狩猎中好运.
-269	If you have an interest in taking on bounties, join the Grey Huntsmen. We often try to recruit new members through long range comms, but if you're eager to join, go to the Harbor or Cornelia station. We have representatives there by the names of Ivok Milligan and Baris, respectively. Either of them would be happy to induct you into the organization.	如果你对接受悬赏有兴趣.加入灰色猎手团.我们经常尝试通过远程通讯招募新成员.但如果你渴望加入.请到港口或科内利亚站.我们在那里有代表.名字分别是Ivok Milligan和Baris.他们中的任何一位都会很乐意接纳你加入组织.
+269	If you have an interest in taking on bounties, join the Grey Huntsmen. We often try to recruit new members through long range comms, but if you're eager to join, go to the Harbor or Cornelia station. We have representatives there by the names of Ivok Milligan and Baris, respectively. Either of them would be happy to induct you into the organization.	如果你对接受悬赏有兴趣.加入灰色猎手团.我们经常尝试通过远距离通信招募新成员.但如果你渴望加入.请到港口或科内利亚站.我们在那里有代表.名字分别是Ivok Milligan和Baris.他们中的任何一位都会很乐意接纳你加入组织.
 270	Bounty	Bounty
 271	Heard any news about the Alliance of Gentlemen? If you do, I'd appreciate the tip. I have unfinished business with one of their crews. And a bounty to reap.	听说过关于绅士同盟会的任何消息吗？如果你有的话.我会感谢你的提示.我和他们的一个船员有未了结的事情.还有一笔赏金要收.
 272	Get lost.	Get lost.
@@ -599,7 +599,7 @@ ID	Original Text	Translated Text
 598	Congratulations, you’ve been accepted for surveillance work. No more chasing down Gentlemen or delivery jobs for you. If you were already assigned a job before this application went into effect, I recommend you tie your loose ends. The consequences of neglecting a previously assigned task may still apply. Otherwise, you’re ready to go. Good luck out there. 	恭喜你.你已经被接受从事调查者工作，不再有追捕绅士或送货的工作给你，$$如果你在这个申请生效前已经被分配了工作.我建议你把你的事情做完，把屁股擦干净，$$如果忽视的话可能会产生不可预知的后果.好了.你就可以走了.祝你在外面好运.
 599	I apologize, your application has been denied at this time. It seems your record within the Corporation does not meet surveyor requirements. Come back when you’ve worked your way up a bit more, and I’ll be happy to reenter your application. 	我很抱歉.你的申请目前已被拒绝.看来你在公司的记录不符合调查员的要求.等你的工作做得再好一点再回来吧. 我很乐意重新输入你的申请.
 600	Apply	应用
-601	Are you looking to fill out a Surveyor Application? You’ve come to the right place. Dependable W.D. units can be permitted to work solely on surveying sectors in the galaxy. Headquarters will put a hold on assigning missions to surveyor units via long range comms. If you’re interested in surveillance work, then feel free to apply. I can also help you get your bearings around Headquarters if you have any questions. 	你在寻找一份调查员工作吗？你来对地方了，W.D.公司可以被允许在银河系的调查员部门工作，总部将通过远程通信将任务分配给调查者任务.如果你对这份工作感兴趣.那么可以随时申请.如果你有任何问题，我也可以帮助你解答。
+601	Are you looking to fill out a Surveyor Application? You’ve come to the right place. Dependable W.D. units can be permitted to work solely on surveying sectors in the galaxy. Headquarters will put a hold on assigning missions to surveyor units via long range comms. If you’re interested in surveillance work, then feel free to apply. I can also help you get your bearings around Headquarters if you have any questions. 	你在寻找一份调查员工作吗？你来对地方了，W.D.公司可以被允许在银河系的调查员部门工作，总部将通过远距离通信将任务分配给调查者任务.如果你对这份工作感兴趣.那么可以随时申请.如果你有任何问题，我也可以帮助你解答。
 602	Well, I’ll remove your unit from the system then. Headquarters will most likely contact you soon with a new assignment. 	好吧.那我就把你的单位从系统中删除.由于你已经注销了调查者身份，所有总部只能给你安排其他鸡毛蒜皮的任务。
 603	End Surveyor Application	注销调查员身份
 604	I hope surveillance work is treating you well. Are you looking to end your surveyor status, or do you have other questions?	我希望调查者工作对你有好处.你是否想结束你的调查员身份？或者你有其他问题？
@@ -757,7 +757,7 @@ ID	Original Text	Translated Text
 756	Good luck out there.	Good luck out there.
 757	To any Gentlemen out there, help us intercept a W.D. cargo shipment. The Corporation is disrupting our monopoly of spreadshot turrets in this quadrant. If you agree to get rid of their cargo transport, you’ll be paid generously for your assistance. 	To any Gentlemen out there. help us intercept a W.D. cargo shipment. The Corporation is disrupting our monopoly of spreadshot turrets in this quadrant. If you agree to get rid of their cargo transport. you’ll be paid generously for your assistance. 
 758	Why are you hailing us? Stop the cargo shipment.	Why are you hailing us? Stop the cargo shipment.
-759	Old Colonial Union waystation nearby. A passing Alliance crew reported no humanoid life signs on the base. Might be ripe for scrapping. Request coordinates for 1500 credits. 	Old Colonial Union waystation nearby. A passing Alliance crew reported no humanoid life signs on the base. Might be ripe for scrapping. Request coordinates for 1500 credits. 
+759	Old Colonial Union waystation nearby. A passing Alliance crew reported no humanoid life signs on the base. Might be ripe for scrapping. Request coordinates for 1500 credits. 	附近有个殖民联盟的老驿站。一个途经此地的同盟会船员报告驿站中未检测到人形生命信号。或许是获取废料的好时机。请求其坐标，奖赏1500 Cr。
 760	'Unknown Ship' is declining transmissions.	'Unknown Ship' is declining transmissions.
 761	Alliance of Gentlemen ship ^The Conquest^ and a group of metal bandits have raided a W.D. mining base. Destroy ship and eliminate metal bandits inside the station.	Alliance of Gentlemen ship ^The Conquest^ and a group of metal bandits have raided a W.D. mining base. Destroy ship and eliminate metal bandits inside the station.
 762	Three security drones were hacked and are now hostile towards W.D. Corporation units. Disable the drones immediately.	Three security drones were hacked and are now hostile towards W.D. Corporation units. Disable the drones immediately.
@@ -840,9 +840,9 @@ ID	Original Text	Translated Text
 839	Hello. XR-38134 had not expected to see another Colonial Union officer again. The Command Center must have learned of XR-38134’s distress signal. Is that why you have come here, officer? 	你好，XR-38134 没想到会再次见到另一位殖民联盟官员，指挥中心一定已经接收到了 XR-38134 的求救信号， 这就是你来这里的原因，对吗？
 840	XR-38134 is most grateful to you, officer. Most grateful.	XR-38134由衷的感谢您。
 841	This desk is for Outpost 448’s supply hold and voyaging services. Do you have business here?	这里是448号前哨站的补给站和航行服务，你在这里有生意或者有协议吗？
-842	You are now registered for the Explorer’s Appeal. You will no longer receive missions through long range comms, but the Command Center may require you to complete missions you have already been assigned. After your current duties have been completed, you are free to embark on your expedition. Thank you for your service, and may your voyages bring you much discovery. Together, we survive.	你现在已经注册了 "探险家协议"，你将通过远程通讯接收任务，但指挥中心可能要求你完成已经分配的任务，在这些任务完成后，你可以自由地踏上你的探险之旅，感谢你们的服务，愿你们的航行给你们带来许多发现，团结起来，我们才能生存。
+842	You are now registered for the Explorer’s Appeal. You will no longer receive missions through long range comms, but the Command Center may require you to complete missions you have already been assigned. After your current duties have been completed, you are free to embark on your expedition. Thank you for your service, and may your voyages bring you much discovery. Together, we survive.	你现在已经注册了 "探险家协议"，你将通过远距离通信接收任务，但指挥中心可能要求你完成已经分配的任务，在这些任务完成后，你可以自由地踏上你的探险之旅，感谢你们的服务，愿你们的航行给你们带来许多发现，团结起来，我们才能生存。
 843	At this time, you do not have an appropriate status with the Colonial Union to be accepted for the Explorer’s Appeal. When you gain more standing with the Command Center, you may attempt to register again.	由于你和殖民地联盟没有到达适当的关系，所以我们不能接受你的申请，只有当你和殖民地联盟关系越来越好的时候，你就可以来我这里尝试再次申请。
-844	The Explorer’s Appeal is a Colonial Union approved exemption from missions given through long range comms. Colonial Union crews that specialize in exploration and research can file for this appeal and focus their efforts solely on discovery. Would you like to apply for an appeal?	探险家协议是殖民联盟批准的豁免任务，通过长距离通讯提供任务并获取报酬，专注于探索和研究，殖民地联盟官员可以申请成为其中一员，你想申请吗？
+844	The Explorer’s Appeal is a Colonial Union approved exemption from missions given through long range comms. Colonial Union crews that specialize in exploration and research can file for this appeal and focus their efforts solely on discovery. Would you like to apply for an appeal?	探险家协议是殖民联盟批准的豁免任务，通过远距离通信提供任务并获取报酬，专注于探索和研究，殖民地联盟官员可以申请成为其中一员，你想申请吗？
 845	Explorer's Appeal	探险家协议
 846	The facility will be shutting down in a few weeks. I assume the workers at Barwick will be reassigned to new positions. It’s a disappointment that Barwick is facing closure—new warp coils are hard to come by out here. 	该设施将在几周内关闭，我还想这巴威克公司的工人大不了重新分配到新的岗位，但可能还会有更坏的结局就是......巴威克公司也许以后也将不复存在。如果你想买曲速线圈的话，你应该去别的地方看看去了。
 847	You have the shipment from Barwick? We received a transmission that you’d be on your way. Thank you for delivering the warp coils to us. Please, take this payment for your work. 	巴威克的货物你送来了吗？我们收到了你们运输物资的消息，谢谢你为我们送来经线圈，请收下这笔报酬。
@@ -850,7 +850,7 @@ ID	Original Text	Translated Text
 849	You were sent with the shipment from Barwick? Do you have the warp coils?	你送来了巴威克的货物？曲速线圈？
 850	Barwick Shipment	巴威克的货物
 851	Hello, officer. This desk is for Outpost 448’s supply hold and voyaging services. Do you have business here? Or are you seeking to request an Explorer’s Appeal? 	这里是448号前哨站的补给站和航行服务，你在这里有生意或者有协议吗？或者你想申请探险家协议？
-852	You are no longer registered for the Explorer’s Appeal. The Command Center will reopen long range comms when there is a suitable assignment for your crew. 	你不再是探险家协议的注册人员，如果你想回来的话，只需要重新找我申请就行。
+852	You are no longer registered for the Explorer’s Appeal. The Command Center will reopen long range comms when there is a suitable assignment for your crew. 	你不再是探险家协议的注册人员。有合适的安排给你们的时候，指挥中心会用远距离通信通知你们的。 
 853	End Explorer's Appeal	注销探险家协议
 854	This desk is for Outpost 448’s supply hold and voyaging services. How may I assist you?	这里是 Outpost 448 的补给和航行服务. 我可以帮助你什么呢?
 855	Hello, officer. This desk is for Outpost 448’s supply hold and voyaging services. Do you have business here?	你好，这里是 Outpost 448 的补给和航行服务. 你这里有生意来往吗？
@@ -1768,10 +1768,10 @@ ID	Original Text	Translated Text
 1767	If you're here about the debt collecting job, you'll have to speak with Wondam Skoss himself. You can find him here in the Spine under the blaring pink sign that says 'Free Credits'.	If you're here about the debt collecting job. you'll have to speak with Wondam Skoss himself. You can find him here in the Spine under the blaring pink sign that says 'Free Credits'.
 1768	If you’re still interested in answering that Gentleman’s request for assistance, you can find him somewhere in the orange-lit crew quarters of the Estate. He’s a Sylvassi named Alosius Grec. I apologize, but I haven’t been provided any further information on the job. Good luck out there. 	If you’re still interested in answering that Gentleman’s request for assistance. you can find him somewhere in the orange-lit crew quarters of the Estate. He’s a Sylvassi named Alosius Grec. I apologize. but I haven’t been provided any further information on the job. Good luck out there. 
 1769	I've uploaded the coordinates to your starmap. Good luck to you. And try to make it back in one piece.	I've uploaded the coordinates to your starmap. Good luck to you. And try to make it back in one piece.
-1770	Recently, two W.D. hunting units were placed in a sector that happened to be a vital part of a smuggling route called X-59 Alpha. The units engage in combat with any ship that enters the sector, and as a result have taken out several Alliance smuggling vessels. The Caretaker has declared these hunting ships marked for elimination. Whoever gets rid of the W.D. hunting units will be paid 7,000 credits. Interested in the job?	Recently. two W.D. hunting units were placed in a sector that happened to be a vital part of a smuggling route called X-59 Alpha. The units engage in combat with any ship that enters the sector. and as a result have taken out several Alliance smuggling vessels. The Caretaker has declared these hunting ships marked for elimination. Whoever gets rid of the W.D. hunting units will be paid 7.000 credits. Interested in the job?
-1771	Clear X-59 Alpha Route	Clear X-59 Alpha Route
-1772	I've uploaded the coordinates to your starmap. Good luck.	I've uploaded the coordinates to your starmap. Good luck.
-1773	A certain raider band called the Boltacks has gotten out of hand. They've been attacking other Gentlemen and threatening to expose the Estate. According to word from the top, the Caretaker just put a bounty on their heads. Take down those raiders, and you'll be awarded 10,000 credits. Are you interested?	A certain raider band called the Boltacks has gotten out of hand. They've been attacking other Gentlemen and threatening to expose the Estate. According to word from the top. the Caretaker just put a bounty on their heads. Take down those raiders. and you'll be awarded 10.000 credits. Are you interested?
+1770	Recently, two W.D. hunting units were placed in a sector that happened to be a vital part of a smuggling route called X-59 Alpha. The units engage in combat with any ship that enters the sector, and as a result have taken out several Alliance smuggling vessels. The Caretaker has declared these hunting ships marked for elimination. Whoever gets rid of the W.D. hunting units will be paid 7,000 credits. Interested in the job?	最近，两艘W.D.追猎单位被安排到某一星区，而这一星区正好是名为X-59 Alpha的走私路线的重要部分。这些单位与进入该星区的所有船只交战，而几艘同盟会的走私船只因此被击沉。看守者已经声明这些追猎舰船已被标记以消灭之。任何解决掉W.D.追猎单位的人将会获得7,000 Cr的酬劳。感兴趣吗？
+1771	Clear X-59 Alpha Route	清理航线X-59 Alpha
+1772	I've uploaded the coordinates to your starmap. Good luck.	我已经把坐标上传到你们的星图了。祝你们好运。
+1773	A certain raider band called the Boltacks has gotten out of hand. They've been attacking other Gentlemen and threatening to expose the Estate. According to word from the top, the Caretaker just put a bounty on their heads. Take down those raiders, and you'll be awarded 10,000 credits. Are you interested?	一个叫博塔克的掠夺者团伙脱离了控制。他们一直攻击其他的绅士们，并威胁暴露庄园。根据最上面的话，看守者刚刚发布了取他们首级的悬赏。干掉这些掠夺者，你会获得10,000 Cr的奖赏。有兴趣吗？
 1774	Subdue Raider Band	Subdue Raider Band
 1775	For any further information, you'll have to speak with Wondam Skoss himself. You can find him here in the Spine under the blaring pink sign that says 'Free Credits'.	For any further information. you'll have to speak with Wondam Skoss himself. You can find him here in the Spine under the blaring pink sign that says 'Free Credits'.
 1776	Wondam Skoss has requested assistance in hunting down a previous client of his. His tracking vessels have had difficulties with this particular client, and he's looking for a reliable Gentlemen crew to locate the client in their stead. The payment for this job has just been raised to 17,000 credits. Interested?	Wondam Skoss has requested assistance in hunting down a previous client of his. His tracking vessels have had difficulties with this particular client. and he's looking for a reliable Gentlemen crew to locate the client in their stead. The payment for this job has just been raised to 17.000 credits. Interested?
@@ -2171,7 +2171,7 @@ ID	Original Text	Translated Text
 2170	XR-29341 is one of two XR units stationed in the colony. The other is XR-52770, currently stationed by the teleportation pad. Either unit will be pleased to assist you. 	XR-29341 is one of two XR units stationed in the colony. The other is XR-52770. currently stationed by the teleportation pad. Either unit will be pleased to assist you. 
 2171	XR-29341	XR-29341
 2172	In 3192 UE, Lotharus 9 was confirmed to be a suitable environment for human life and was approved for colonization by the Colonial Union Habitation Division. The Lotharus 9 Planetary Colony was later founded in 3200 UE. It currently sustains nine human inhabitants and two XR units. The Colonial Union Command Center requires a routine inspection of the colony every Union-standard year to monitor the stability of the settlement and its dwellers.	In 3192 UE. Lotharus 9 was confirmed to be a suitable environment for human life and was approved for colonization by the Colonial Union Habitation Division. The Lotharus 9 Planetary Colony was later founded in 3200 UE. It currently sustains nine human inhabitants and two XR units. The Colonial Union Command Center requires a routine inspection of the colony every Union-standard year to monitor the stability of the settlement and its dwellers.
-2173	Perform routine inspection of the Lotharus 9 Planetary Colony. Inspect newly implemented greenhouse facilities and interview inhabitants. Report status of colony to CU Command Center via long range comms. 	对莲花9号行星殖民地进行例行检查.检查新实施的温室设施.并采访居民.通过远程通信向CU指挥中心报告殖民地状态.
+2173	Perform routine inspection of the Lotharus 9 Planetary Colony. Inspect newly implemented greenhouse facilities and interview inhabitants. Report status of colony to CU Command Center via long range comms. 	对莲花9号行星殖民地进行例行检查.检查新实施的温室设施.并采访居民.通过远距离通信向CU指挥中心报告殖民地状态.
 2174	CU Command requests a crew of officers for a voluntary assignment inspecting the Lotharus 9 Planetary Colony. If your crew is willing to volunteer, reply to this transmission. 	CU Command requests a crew of officers for a voluntary assignment inspecting the Lotharus 9 Planetary Colony. If your crew is willing to volunteer. reply to this transmission. 
 2175	In 3192 UE, Lotharus 9 was confirmed to be a suitable environment for human life and was approved for colonization by the Colonial Union Habitation Division. The Lotharus 9 Planetary Colony was later founded in 3200 UE. It currently sustains nine human inhabitants and two XR units. The Colonial Union Command Center requires a routine inspection of the colony every Union-standard year to monitor the stability of the settlement and its dwellers. 	In 3192 UE. Lotharus 9 was confirmed to be a suitable environment for human life and was approved for colonization by the Colonial Union Habitation Division. The Lotharus 9 Planetary Colony was later founded in 3200 UE. It currently sustains nine human inhabitants and two XR units. The Colonial Union Command Center requires a routine inspection of the colony every Union-standard year to monitor the stability of the settlement and its dwellers. 
 2176	SEND POSITIVE REPORT OF COLONY	SEND POSITIVE REPORT OF COLONY
@@ -4126,27 +4126,27 @@ ID	Original Text	Translated Text
 4125	Do not lose warp coil shipment	不要丢失运输货物
 4126	Reach Outpost 448 (Sector 0)	Reach Outpost 448 (Sector 0)
 4127	Report to Eldon Gatra in central chamber of Outpost 448	向448哨站中央大厅的埃尔登·加特拉报告
-4128	Exempts your crew from missions given through long range comms. To end the Explorer’s Appeal, speak with Eldon Gatra at Outpost 448.	免除您的船员通过远程通信的任务.为了结束探险者的上诉.请与448哨站的埃尔登·加特拉交谈.
-4129	Explore the galaxy	Explore the galaxy
+4128	Exempts your crew from missions given through long range comms. To end the Explorer’s Appeal, speak with Eldon Gatra at Outpost 448.	免除您的船员通过远距离通信的任务.为了结束探险者的上诉.请与448哨站的埃尔登·加特拉交谈.
+4129	Explore the galaxy	探索星系
 4130	Surveyor Application	调查员申请
-4131	Exempts your crew from missions given through long range comms. To end the Surveyor Application, speak with Remhan Zesho at the W.D. Intelligence Center.	Exempts your crew from missions given through long range comms. To end the Surveyor Application. speak with Remhan Zesho at the W.D. Intelligence Center.
-4132	Sensor Sabotage	Sensor Sabotage
-4133	Teleport to the surface of the planet where the Harbor is located. Then sabotage the sensor stations by removing their power cells. I sent you the coordinates, if you didn’t have them already. Good luck. And thank you for your assistance.	Teleport to the surface of the planet where the Harbor is located. Then sabotage the sensor stations by removing their power cells. I sent you the coordinates. if you didn’t have them already. Good luck. And thank you for your assistance.
+4131	Exempts your crew from missions given through long range comms. To end the Surveyor Application, speak with Remhan Zesho at the W.D. Intelligence Center.	该任务指导您如何豁免从远距离通信下达的任务。要结束调查员申请，找W.D.情报中心的雷汉·则硕谈话。
+4132	Sensor Sabotage	破坏传感器
+4133	Teleport to the surface of the planet where the Harbor is located. Then sabotage the sensor stations by removing their power cells. I sent you the coordinates, if you didn’t have them already. Good luck. And thank you for your assistance.	传送到港湾所在星球的地表。移除电池以破坏传感器站点。$$如果你们没有坐标的话，我刚发给你们了。$$祝好运。另外感谢你们的帮助。
 4134	Reach sector of the Harbor	到达港湾
-4135	Steal sensor power cells	窃取传感器电源电池
+4135	Steal sensor power cells	窃取传感器电池
 4137	Clear the Waystation	清除中转站
 4138	Eliminate all uncontained creatures	消灭所有不明生物
-4139	Salvage Research Logs	Salvage Research Logs
-4140	Find Colonial Union research logs	Find Colonial Union research logs
-4141	Scavenge Waystation	Scavenge Waystation
-4142	Old Colonial Union waystation nearby. A passing Alliance crew reported no humanoid life signs on the base. Might be ripe for scrapping. 	Old Colonial Union waystation nearby. A passing Alliance crew reported no humanoid life signs on the base. Might be ripe for scrapping. 
-4143	Reach CU Station R-979	Reach CU Station R-979
-4144	Enter and scavenge waystation	Enter and scavenge waystation
-4145	^Recently, two W.D. hunting units were placed in a sector that happened to be a vital part of a smuggling route called X-59 Alpha. The units engage in combat with any ship that enters the sector, and as a result have taken out several Alliance smuggling vessels. The Caretaker has declared these hunting ships marked for elimination. Whoever gets rid of the W.D. hunting units will be paid 7,000 credits.^	^Recently. two W.D. hunting units were placed in a sector that happened to be a vital part of a smuggling route called X-59 Alpha. The units engage in combat with any ship that enters the sector. and as a result have taken out several Alliance smuggling vessels. The Caretaker has declared these hunting ships marked for elimination. Whoever gets rid of the W.D. hunting units will be paid 7.000 credits.^
-4146	Destroy the W.D. Hunting Units	Destroy the W.D. Hunting Units
-4147	Report back to Yiria Sali in the spine of the Estate	Report back to Yiria Sali in the spine of the Estate
-4148	^A certain raider band called the Boltacks has gotten out of hand. They've been attacking other Gentlemen and threatening to expose the Estate. According to word from the top, the Caretaker just put a bounty on their heads. Take down those raiders, and you'll be awarded 10,000 credits.^	^A certain raider band called the Boltacks has gotten out of hand. They've been attacking other Gentlemen and threatening to expose the Estate. According to word from the top. the Caretaker just put a bounty on their heads. Take down those raiders. and you'll be awarded 10.000 credits.^
-4149	Destroy The Boltacks	Destroy The Boltacks
+4139	Salvage Research Logs	寻获传感器日志
+4140	Find Colonial Union research logs	寻找殖民联盟研究日志
+4141	Scavenge Waystation	翻找驿站
+4142	Old Colonial Union waystation nearby. A passing Alliance crew reported no humanoid life signs on the base. Might be ripe for scrapping. 	附近有个殖民联盟的老驿站。一个途经此地的同盟会船员报告驿站中未检测到人形生命信号。或许是获取废料的好时机。
+4143	Reach CU Station R-979	前往殖联空间站R-979
+4144	Enter and scavenge waystation	进入驿站并寻找有用的东西
+4145	^Recently, two W.D. hunting units were placed in a sector that happened to be a vital part of a smuggling route called X-59 Alpha. The units engage in combat with any ship that enters the sector, and as a result have taken out several Alliance smuggling vessels. The Caretaker has declared these hunting ships marked for elimination. Whoever gets rid of the W.D. hunting units will be paid 7,000 credits.^	^最近，两艘W.D.追猎单位被安排到某一星区，$$而这一星区正好是名为X-59 Alpha的$$走私路线的重要部分。这些单位与进入$$该星区的所有船只交战，而几艘同盟会的走私船只$$因此被击沉。看守者已经声明这些追猎舰船已被$$标记以消灭之。任何解决掉W.D.追猎单位$$的人将会获得7,000 Cr的酬劳。^
+4146	Destroy the W.D. Hunting Units	摧毁W.D.追猎单位
+4147	Report back to Yiria Sali in the spine of the Estate	在庄园的脊椎部向伊利亚·萨利汇报
+4148	^A certain raider band called the Boltacks has gotten out of hand. They've been attacking other Gentlemen and threatening to expose the Estate. According to word from the top, the Caretaker just put a bounty on their heads. Take down those raiders, and you'll be awarded 10,000 credits.^	^一个叫博塔克的掠夺者团伙脱离了控制。$$他们一直攻击其他的绅士们，并威胁暴露庄园。$$根据最上面的话，看守者刚刚发布了取他们首级的悬赏。$$干掉这些掠夺者，你会获得10,000 Cr的奖赏。^
+4149	Destroy The Boltacks	摧毁博塔克
 4150	^The Estate needs a Gentlemen crew to smuggle a shipment of medical supplies out of Outpost 448. There's an associate at the station who should have the supplies prepared. When you get to Outpost 448, locate Lazgo Naden on the upper level of the central chamber, by the shipping containers. He'll be able to get the supplies to your ship. Just make sure you have two cargo spaces open. Complete this job, and you'll be paid 8,000 credits.^	^The Estate needs a Gentlemen crew to smuggle a shipment of medical supplies out of Outpost 448. There's an associate at the station who should have the supplies prepared. When you get to Outpost 448. locate Lazgo Naden on the upper level of the central chamber. by the shipping containers. He'll be able to get the supplies to your ship. Just make sure you have two cargo spaces open. Complete this job. and you'll be paid 8.000 credits.^
 4151	Report to Lazgo Naden on the upper level of the central chamber	Report to Lazgo Naden on the upper level of the central chamber
 4152	Acquire the prepared medical supplies	Acquire the prepared medical supplies
@@ -8262,7 +8262,7 @@ ID	Original Text	Translated Text
 9368	Warp Disable [VIRUS]	禁用曲速 [病毒]
 9369	Phalanx [VIRUS]	Phalanx [VIRUS]
 9370	Backdoor [VIRUS]	植入后门 [病毒]
-9371	Block Long Range Comms	阻断远程通讯
+9371	Block Long Range Comms	阻断远距离通信
 9372	Emergency Shield Boosting	强化护盾恢复速度
 9373	Military-Grade Shield Boosting	Military-Grade Shield Boosting
 9374	Quantum Defenses	Quantum Defenses
@@ -9735,11 +9735,11 @@ ID	Original Text	Translated Text
 11104	Depak Elidos	Depak Elidos
 11105	Sloan Arkson	Sloan Arkson
 11106	Tovi	Tovi
-11107	Remhan Zesho	Remhan Zesho
+11107	Remhan Zesho	雷汉·则硕
 11108	Arid climate.	Arid climate.
 11109	Shop signal detected.	Shop signal detected.
 11110	Sylvassi cypher detected.	Sylvassi cypher detected.
-11111	Surface	Surface
+11111	Surface	地表
 11112	Lennox Falk	Lennox Falk
 11113	Terraforming Station	Terraforming Station
 11114	Location of a Colonial Union terraforming station.	Location of a Colonial Union terraforming station.
@@ -9769,10 +9769,10 @@ ID	Original Text	Translated Text
 11138	Brodi Anders	Brodi Anders
 11139	Ruan Domnall	Ruan Domnall
 11140	Uto	Uto
-11141	Small Cave	Small Cave
+11141	Small Cave	小型洞穴
 11142	Ellar Moren	Ellar Moren
 11143	XR-42635	XR-42635
-11144	Structure	Structure
+11144	Structure	结构
 11145	Ruins	Ruins
 11146	Location of an Explorer's United research base.	Location of an Explorer's United research base.
 11147	Alien ruins detected.	Alien ruins detected.
@@ -10015,7 +10015,7 @@ ID	Original Text	Translated Text
 11384	Levala Ziarin	Levala Ziarin
 11385	Lerran Shalter	Lerran Shalter
 11386	Jelisa Azengal	Jelisa Azengal
-11387	Yiria Sali	Yiria Sali
+11387	Yiria Sali	伊利亚·萨利
 11388	Yilmax Koul	Yilmax Koul
 11389	Brinna Glensis	Brinna Glensis
 11390	Alzera Kenis	Alzera Kenis
