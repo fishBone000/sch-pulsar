@@ -22,6 +22,7 @@ Fluffy Biscuit: 毛绒饼干（临时）
 Atrium: 克隆再生舱（临时）
 
 the Wasted Wing  :  这个应该理解为“废墟之翼”，至少再翻译中我是这样命名的
+Fuel Capsules:燃料胶囊
 Swordship:翻译为利刃感觉刚好一些
 Deathseeker：敢死队
 Borthix：硼砂
@@ -49,3 +50,6 @@ crew: 组员/舰员/房间？
 
 binary: 双目？
 
+flag: 标记
+
+翻译了游戏内手册（in-game manual）后记得把条目6440改一下

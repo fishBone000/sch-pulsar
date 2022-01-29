@@ -4988,20 +4988,20 @@ ID	Original Text	Translated Text
 5038	Right To Left	Right To Left
 5039	Share On Workshop	在创意工坊中共享
 5040	In a galaxy on the fringes of known space, a peculiar transmission was received by every ship and station.	在星系中已知星域的边缘，每个舰船和空间站都收到了一条与众不同的信息。
-5041	It spoke of a place called the Lost Colony, a remnant of the Old Wars that harbors a secret—one that may change the course of history forever.	这条信息提到了一个叫做失落殖民地的地方，隐匿着一个秘密的远古战争的残留之地——一个可以永远改变历史航向的秘密。
-5042	When the message was sent, its coordinates were corrupted—fragmented. To track the transmission’s origin, several pieces of the scattered data must be collected.	在这条消息发送的时候，它的坐标损坏了——变成了碎片。要追踪传输的源头就得找到几段破损的数据。
+5041	It spoke of a place called the Lost Colony, a remnant of the Old Wars that harbors a secret—one that may change the course of history forever.	这条信息提到了一个叫做失落殖民地的地方，这样一个远古战争$的残留之地隐匿着一个秘密 —— 一个可以永远改变历史航向的秘密。
+5042	When the message was sent, its coordinates were corrupted—fragmented. To track the transmission’s origin, several pieces of the scattered data must be collected.	在这条消息发送的时候，它的坐标损坏了——坐标变成了数据碎片。要追踪传输的源头就得找到几段破损的数据。
 5043	Hundreds have set out in search of the Lost Colony, believing the first to find it will attain unparalleled wealth and power.	上百人动身寻找这失落殖民地，他们相信第一个找到的人会拥有无比的财富与权力。
-5044	Some desperate crews seek to acquire these so-called “data fragments” by any means at their disposal.	一些绝望的船员使用任何手段获取这些所谓的“数据碎片”。
-5045	However, the frantic hunt for data fragments is not the only stirring of trouble in the galaxy.	然而，这失智的搜索不是星系中唯一的麻烦。
+5044	Some desperate crews seek to acquire these so-called “data fragments” by any means at their disposal.	一些绝望的船员使用任何手段获取所谓的“数据碎片”。
+5045	However, the frantic hunt for data fragments is not the only stirring of trouble in the galaxy.	然而，这失智般的搜索行动不是星系中唯一的麻烦。
 5046	With the intergalactic warp network severed and a pervasive species known as the Infected spreading through the sectors, chaos is rising.	随着星系间跃迁网络断连、无处不在的病体种族蔓延星区，混乱弥漫。
 5047	No one knows what will become of this galaxy or its inhabitants in due time.	没人知道到那时，这个星系和居住在其中的栖息动物会变成什么样。
-5048	As officers of the lawful Colonial Union	作为守序的殖民联盟官员
-5049	employees of the weapons manufacturing W.D. Corporation	武器制造商W.D.公司的雇员
-5050	members of the piratical Alliance of Gentlemen	海盗组织绅士同盟会的成员
-5051	a delivery crew for the Fluffy Biscuit Company	毛绒饼干公司的派送船员
-5052	or neutral civilians bereft of a faction	或是不属于任何派系的中立公民
-5053	it is up to you to decide what you'll do.	你所作为将由你决定。
-5054	Will you help restore order?	你会帮助重建秩序
+5048	As officers of the lawful Colonial Union	作为守序的殖民联盟官员、
+5049	employees of the weapons manufacturing W.D. Corporation	武器制造商W.D.公司的雇员、
+5050	members of the piratical Alliance of Gentlemen	海盗组织绅士同盟会的成员、
+5051	a delivery crew for the Fluffy Biscuit Company	毛绒饼干公司的派送船员、
+5052	or neutral civilians bereft of a faction	或是不属于任何派系的中立公民，
+5053	it is up to you to decide what you'll do.	你的所作所为将由你决定。
+5054	Will you help restore order?	你会帮助重建秩序？
 5055	Will you plunge the galaxy deeper into chaos?	把星系推进更深的混乱状态？
 5056	Or will you join the hunt for the fabled Lost Colony?	还是会加入搜寻传说中的失落殖民地？
 5057	Damage	伤害
@@ -5778,24 +5778,24 @@ ID	Original Text	Translated Text
 6421	Visit the Academy to learn more about many topics from the basics of operating a starship to class-specific roles.	Visit the Academy to learn more about many topics from the basics of operating a starship to class-specific roles.
 6422	Nebulas block long range transmissions, which means you won't lose reputation or become flagged while inside a nebula sector.	Nebulas block long range transmissions, which means you won't lose reputation or become flagged while inside a nebula sector.
 6423	Atriums will continue to respawn enemy crewmembers until their claim on their ship is removed. Likewise, your atrium will continue to respawn you unless enemy boarders take over your ship.	Atriums will continue to respawn enemy crewmembers until their claim on their ship is removed. Likewise, your atrium will continue to respawn you unless enemy boarders take over your ship.
-6424	In Colonial Union space, cargo inspection stations send orders over long range comms to check ships for contraband. You will have a limited number of jumps to comply, or your ship will be flagged for avoiding the inspection.	In Colonial Union space, cargo inspection stations send orders over long range comms to check ships for contraband. You will have a limited number of jumps to comply, or your ship will be flagged for avoiding the inspection.
-6425	Sector Commanders are incredibly difficult fights in space shown as ! on the starmap. Be prepared before warping into such sectors.	Sector Commanders are incredibly difficult fights in space shown as ! on the starmap. Be prepared before warping into such sectors.
-6426	You can change your appearance in-game at Barber stations which are located at any of the major hubs.	You can change your appearance in-game at Barber stations which are located at any of the major hubs.
-6427	You can reset your talents in-game at Neural Rewriters which are located at any of the major hubs.	You can reset your talents in-game at Neural Rewriters which are located at any of the major hubs.
-6428	Chaotic actions such as destroying ships, getting free repairs, or extorting crews can increase chaos faster.	Chaotic actions such as destroying ships, getting free repairs, or extorting crews can increase chaos faster.
-6429	Ammo reserves refresh every warp jump.	Ammo reserves refresh every warp jump.
-6430	Ship components labeled red are contraband. If you are found guilty of transporting contraband during a cargo inspection, your ship will be flagged and attacked. Take care to hide or dispose of any illicit goods.	Ship components labeled red are contraband. If you are found guilty of transporting contraband during a cargo inspection, your ship will be flagged and attacked. Take care to hide or dispose of any illicit goods.
-6431	Some Alliance of Gentlemen ships have hidden rooms for storing contraband cargo.	Some Alliance of Gentlemen ships have hidden rooms for storing contraband cargo.
-6432	Flagged ships have no allies. Any and all ships will treat them as hostile. To remove a flagged status from your ship, you can visit certain NPCs at the Burrow, the Estate, and Cornelia Station.	Flagged ships have no allies. Any and all ships will treat them as hostile. To remove a flagged status from your ship, you can visit certain NPCs at the Burrow, the Estate, and Cornelia Station.
-6433	Drinking alcohol while piloting a starship is very irresponsible!	Drinking alcohol while piloting a starship is very irresponsible!
-6434	During ship hailing, the Captain can try to determine the chance of success for certain dialog options by pressing the buttons with the magnifying glass. But be wary. Doing this too many times may provoke a hostile response.	During ship hailing, the Captain can try to determine the chance of success for certain dialog options by pressing the buttons with the magnifying glass. But be wary. Doing this too many times may provoke a hostile response.
-6435	Consuming biscuits can help in a variety of situations. There are many flavors that have different effects such as boosting weapon damage, increasing fire resistance, and even cheating death.	Consuming biscuits can help in a variety of situations. There are many flavors that have different effects such as boosting weapon damage, increasing fire resistance, and even cheating death.
-6436	Crumbly biscuits have area of effect abilities that benefit your nearby crewmembers.	Crumbly biscuits have area of effect abilities that benefit your nearby crewmembers.
-6437	Only one biscuit effect can be active at a time. When you eat a biscuit, be mindful before you consume another flavor.	Only one biscuit effect can be active at a time. When you eat a biscuit, be mindful before you consume another flavor.
-6438	A blind jump is unlocked by the Captain and forces the ship into an immediate warp jump. The outcome can be very unexpected, potentially dropping your ship into a dangerous sector or somewhere on the other side of the galaxy. Blind jumps can be activated even if the ship has no fuel capsules.	A blind jump is unlocked by the Captain and forces the ship into an immediate warp jump. The outcome can be very unexpected, potentially dropping your ship into a dangerous sector or somewhere on the other side of the galaxy. Blind jumps can be activated even if the ship has no fuel capsules.
-6439	Remember to stock up on fuel capsules. Not only are they necessary for jumping the ship, but they can also be used to recharge programs and spawn ammo clips.	Remember to stock up on fuel capsules. Not only are they necessary for jumping the ship, but they can also be used to recharge programs and spawn ammo clips.
-6440	Not sure how a particular ship system works? You can check out in the in-game manual in the ESC menu at any time!	Not sure how a particular ship system works? You can check out in the in-game manual in the ESC menu at any time!
-6441	Each ship has a different layout. Take some time to familiarize yourself with your ship so you can efficiently maneuver through it.	Each ship has a different layout. Take some time to familiarize yourself with your ship so you can efficiently maneuver through it.
+6424	In Colonial Union space, cargo inspection stations send orders over long range comms to check ships for contraband. You will have a limited number of jumps to comply, or your ship will be flagged for avoiding the inspection.	在殖民联盟的领域，仓库检查站会通过远距离通信下令检查走私货。你必须在限定跳跃次数内完成，否则你的舰船会因逃避检查被标记。
+6425	Sector Commanders are incredibly difficult fights in space shown as ! on the starmap. Be prepared before warping into such sectors.	区域指挥官极难对付！他们在星图上被“!”标记。在跃迁到这些星区前做好充分准备。
+6426	You can change your appearance in-game at Barber stations which are located at any of the major hubs.	你可以在理发站（Barber stations）更改你的外观，且无需退出游戏。理发站能在主要枢纽中找到。
+6427	You can reset your talents in-game at Neural Rewriters which are located at any of the major hubs.	你可以在神经系统重写站（Neural Rewriter）重置天赋，且无需退出游戏。神经系统重写站能在主要枢纽中找到。
+6428	Chaotic actions such as destroying ships, getting free repairs, or extorting crews can increase chaos faster.	混乱行为，诸如摧毁舰船、不付修理费或勒索船员，会更快地增加混乱值。
+6429	Ammo reserves refresh every warp jump.	弹药储备会在每次跃迁刷新。
+6430	Ship components labeled red are contraband. If you are found guilty of transporting contraband during a cargo inspection, your ship will be flagged and attacked. Take care to hide or dispose of any illicit goods.	被标红的舰船部件都是走私货。如果你在仓库检查中被发现运输走私货，你的舰船会被标记并被攻击。要小心隐藏或丢掉非法的货品。
+6431	Some Alliance of Gentlemen ships have hidden rooms for storing contraband cargo.	一些绅士同盟会的舰船有用以存储走私货的隐藏房间。
+6432	Flagged ships have no allies. Any and all ships will treat them as hostile. To remove a flagged status from your ship, you can visit certain NPCs at the Burrow, the Estate, and Cornelia Station.	被标记的舰船孤立无援。任何以及所有的舰船都会把它们视为敌人。你可以去Burrow、庄园和科内利亚站找某些NPC消除你的舰船的标记状态。
+6433	Drinking alcohol while piloting a starship is very irresponsible!	喝酒开飞船是十分不负责任的行为！
+6434	During ship hailing, the Captain can try to determine the chance of success for certain dialog options by pressing the buttons with the magnifying glass. But be wary. Doing this too many times may provoke a hostile response.	在舰船间的对话时，船长可以用放大镜，并通过按按钮的方式，来获知某些对话选项的成功几率。但是要小心。做太多次的话可能会引发敌对反应。
+6435	Consuming biscuits can help in a variety of situations. There are many flavors that have different effects such as boosting weapon damage, increasing fire resistance, and even cheating death.	吃饼干能在多种情况下起到帮助。各种口味的饼干有各种功效，比如提升武器伤害和增加火焰抗性，甚至假死也可以。
+6436	Crumbly biscuits have area of effect abilities that benefit your nearby crewmembers.	脆饼干有范围效果，能帮到你附近的船员。
+6437	Only one biscuit effect can be active at a time. When you eat a biscuit, be mindful before you consume another flavor.	只能同时拥有一种饼干效果。当你要吃了一块饼干，在吃下一块之前要留意点。
+6438	A blind jump is unlocked by the Captain and forces the ship into an immediate warp jump. The outcome can be very unexpected, potentially dropping your ship into a dangerous sector or somewhere on the other side of the galaxy. Blind jumps can be activated even if the ship has no fuel capsules.	盲跳由船长解锁，并会强制舰船立即跃迁。但结果会出人意料，有可能会把你的舰船跃迁进一个危险星区或星系的另一边。即使舰船没有燃料胶囊也可以激活盲跳。
+6439	Remember to stock up on fuel capsules. Not only are they necessary for jumping the ship, but they can also be used to recharge programs and spawn ammo clips.	记得囤点燃料胶囊。燃料胶囊不仅要用来跃迁，而且还要给程序充能和生成弹夹。
+6440	Not sure how a particular ship system works? You can check out in the in-game manual in the ESC menu at any time!	不是很清楚某个舰船系统如何工作吗？你可以在任何时候通过ESC菜单查看游戏内手册！（译者注：这个手册暂时无法翻译。后续会在网上贴出翻译版本）
+6441	Each ship has a different layout. Take some time to familiarize yourself with your ship so you can efficiently maneuver through it.	每艘舰船都有不同的布局。花点时间熟悉你的舰船，这样你就可以更有效率地操纵它了。
 6442	Turning off the core safety toggle on your reactor will prevent your ship from shutting down if it overheats. This can give you more time to use your reactor at a high temperature, which can be very useful in a fight. Be vigilant, however, as the stability of your reactor core will degrade. If it reaches critical instability, it will need to be ejected to prevent the ship from exploding.	Turning off the core safety toggle on your reactor will prevent your ship from shutting down if it overheats. This can give you more time to use your reactor at a high temperature, which can be very useful in a fight. Be vigilant, however, as the stability of your reactor core will degrade. If it reaches critical instability, it will need to be ejected to prevent the ship from exploding.
 6443	If you need to eject your reactor core, remember to reroute power from auxiliary systems so you can maneuver your ship away from the unstable core.	If you need to eject your reactor core, remember to reroute power from auxiliary systems so you can maneuver your ship away from the unstable core.
 6444	If you don't have an antivirus program installed and your ship is infected with a virus, you can restart the ship with the startup switchboard to clear any viruses.	If you don't have an antivirus program installed and your ship is infected with a virus, you can restart the ship with the startup switchboard to clear any viruses.
@@ -6925,9 +6925,9 @@ ID	Original Text	Translated Text
 7934	Input.GetButton start	Input.GetButton start
 7935	Input.GetButton FindActionsByID	Input.GetButton FindActionsByID
 7936	ColorMat	ColorMat
-7937	Syncing Game State	Syncing Game State
-7938	Loading	Loading
-7939	 .	 .
+7937	Syncing Game State	游戏状态同步中
+7938	Loading	加载中
+7939	 .	…
 7940	Board the targeted enemy ship and behave according to active subpriority	Board the targeted enemy ship and behave according to active subpriority
 7941	Attempt to sell biscuits to potential customers on the planet's surface	Attempt to sell biscuits to potential customers on the planet's surface
 7942	Enables the cloaking system	Enables the cloaking system
@@ -7806,7 +7806,7 @@ ID	Original Text	Translated Text
 8909	BKP-WPN-POWER	BKP-WPN-POWER
 8910	Processor that boosts turret charge rate and turret cooling when hull is less than 30%.	Processor that boosts turret charge rate and turret cooling when hull is less than 30%.
 8911	Research Pipeline Module	研究系统模块
-8912	Processor that adds one fuel capsule whenever a new talent is researched.	每当研究一个新天赋时添加一个燃料舱的处理器。
+8912	Processor that adds one fuel capsule whenever a new talent is researched.	每当研究一个新天赋时添加一个燃料胶囊的处理器。
 8913	Improved Defenses	Improved Defenses
 8914	Processor that increases effective hull armor.	Processor that increases effective hull armor.
 8915	Warp Range Processor	Warp Range Processor
@@ -9350,19 +9350,19 @@ ID	Original Text	Translated Text
 10712	ALIGNED: [ff0000]NO[-]	ALIGNED: [ff0000]NO[-]
 10713	READY FOR WARP: [00ff00]YES[-]	READY FOR WARP: [00ff00]YES[-]
 10714	READY FOR WARP: [ff0000]NO[-]	READY FOR WARP: [ff0000]NO[-]
-10715	CHAMBER EMPTY	选择核弹...
-10716	CHAMBER LOADED	装载完毕,请打开保险...
-10717	DEVICE ARMED	瞄准中...
-10718	DEVICE AWAY	引爆装置...
+10715	CHAMBER EMPTY	空弹膛
+10716	CHAMBER LOADED	弹膛已装填
+10717	DEVICE ARMED	核装置就绪
+10718	DEVICE AWAY	核装置已投放
 10720	Load Nuclear Device	Load Nuclear Device
 10721	UnloadNuclearDevice	UnloadNuclearDevice
-10722	Unload Nuclear Device	卸载核装置...
+10722	Unload Nuclear Device	卸载核装置
 10724	LAUNCH DEVICE	迅速连续拉动核装置站的两个杠杆$$以打开核装置保险!
-10725	DEVICE READY FOR LAUNCH	DEVICE READY FOR LAUNCH
+10725	DEVICE READY FOR LAUNCH	核装置准备发射
 10726	No targets found!	No targets found!
 10727	Pull the two levers at the arming station$in quick succession to arm the loaded$nuclear device!	Pull the two levers at the arming station$in quick succession to arm the loaded$nuclear device!
-10729	DIST TO TARGET	DIST TO TARGET
-10730	DMG RADIUS	DMG RADIUS
+10729	DIST TO TARGET	目标距离
+10730	DMG RADIUS	伤害半径
 10732	Detonate Device	引爆装置
 10734	 m	 m
 10735	 %	 %
