@@ -761,7 +761,7 @@ ID	Original Text	Translated Text
 760	'Unknown Ship' is declining transmissions.	'Unknown Ship' is declining transmissions.
 761	Alliance of Gentlemen ship ^The Conquest^ and a group of metal bandits have raided a W.D. mining base. Destroy ship and eliminate metal bandits inside the station.	Alliance of Gentlemen ship ^The Conquest^ and a group of metal bandits have raided a W.D. mining base. Destroy ship and eliminate metal bandits inside the station.
 762	Three security drones were hacked and are now hostile towards W.D. Corporation units. Disable the drones immediately.	Three security drones were hacked and are now hostile towards W.D. Corporation units. Disable the drones immediately.
-763	Remove native lifeforms that are obstructing a W.D. planetary base from continuing operations. Report to Sarkis Goran on the surface for further instruction.	清除阻碍W.D.行星基地存在的所有生命体.向地面上的萨基斯-戈兰报告,以获得进一步的指示.
+763	Remove native lifeforms that are obstructing a W.D. planetary base from continuing operations. Report to Sarkis Goran on the surface for further instruction.	清除阻碍W.D.行星基地存在的所有生命体。向地面上的萨基斯·戈兰报告，以获得进一步的指示。
 764	W.D. Destroyer discovered unmanned in nearby sector. Investigate cause of malfunction. 	W.D. Destroyer discovered unmanned in nearby sector. Investigate cause of malfunction. 
 765	The ‘U.S.S. Centuria’ was an exploratory Colonial Union vessel. Before transmissions ceased, the crew of U.S.S. Centuria had reported they investigated a planet surface and underwent an ExoSuit breach that was promptly contained. Thirty-two Union-standard hours after, all transmission with the U.S.S. Centuria terminated.	The ‘U.S.S. Centuria’ was an exploratory Colonial Union vessel. Before transmissions ceased. the crew of U.S.S. Centuria had reported they investigated a planet surface and underwent an ExoSuit breach that was promptly contained. Thirty-two Union-standard hours after. all transmission with the U.S.S. Centuria terminated.
 766	Determine cause of failure in abandoned CU Intrepid-class starship.	Determine cause of failure in abandoned CU Intrepid-class starship.
@@ -4105,7 +4105,7 @@ ID	Original Text	Translated Text
 4104	Search the U.S.S. Centuria	Search the U.S.S. Centuria
 4105	Remove Obstructions	清除障碍物
 4106	Remove native lifeforms that are obstructing a W.D. planetary base from continuing operations.	清除阻碍W.D.行星基地运作的敌对生命体.
-4107	Report to Sarkis Goran on the roof of the planetary base	在行星基地的顶层向萨基斯-戈兰报告
+4107	Report to Sarkis Goran on the roof of the planetary base	在行星基地的顶层向萨基斯·戈兰报告
 4108	Eliminate all hostile lifeforms	消灭所有的敌对生命体
 4109	Smuggle Shipment into Outpost 448	走私货物进入前哨站448
 4110	^My crew and I were supposed to run a delivery to Outpost 448, but we’re tied up here. We won’t make it in time, and our associate at the Outpost needs these goods as soon as possible. Please, don’t lose the shipment. It was a pain to acquire. When you reach Outpost 448, find a woman named Villera Worch. And tell her this phrase: ‘The weather is clear on Karattis.’ She’ll know what to do.^	^我和我的船员本应向448号前哨站送货,但我们被困在了这里,无法继续前行. 前哨站的同事非常需要这些货物,并且越快越好.求你了,帮我送过去吧,还有别把这批货弄丢了.因为它在搜寻的时候非常麻烦.当你到达448号前哨站时,找到一个叫维莱拉-沃奇的女人.并告诉她这句话：'卡拉提斯的天气很晴朗.她会知道该怎么做.^
@@ -4147,7 +4147,7 @@ ID	Original Text	Translated Text
 4147	Report back to Yiria Sali in the spine of the Estate	在庄园的脊椎部向伊利亚·萨利汇报
 4148	^A certain raider band called the Boltacks has gotten out of hand. They've been attacking other Gentlemen and threatening to expose the Estate. According to word from the top, the Caretaker just put a bounty on their heads. Take down those raiders, and you'll be awarded 10,000 credits.^	^一个叫博塔克的掠夺者团伙脱离了控制。$$他们一直攻击其他的绅士们，并威胁暴露庄园。$$根据最上面的话，看守者刚刚发布了取他们首级的悬赏。$$干掉这些掠夺者，你会获得10,000 Cr的奖赏。^
 4149	Destroy The Boltacks	摧毁博塔克
-4150	^The Estate needs a Gentlemen crew to smuggle a shipment of medical supplies out of Outpost 448. There's an associate at the station who should have the supplies prepared. When you get to Outpost 448, locate Lazgo Naden on the upper level of the central chamber, by the shipping containers. He'll be able to get the supplies to your ship. Just make sure you have two cargo spaces open. Complete this job, and you'll be paid 8,000 credits.^	^The Estate needs a Gentlemen crew to smuggle a shipment of medical supplies out of Outpost 448. There's an associate at the station who should have the supplies prepared. When you get to Outpost 448. locate Lazgo Naden on the upper level of the central chamber. by the shipping containers. He'll be able to get the supplies to your ship. Just make sure you have two cargo spaces open. Complete this job. and you'll be paid 8.000 credits.^
+4150	^The Estate needs a Gentlemen crew to smuggle a shipment of medical supplies out of Outpost 448. There's an associate at the station who should have the supplies prepared. When you get to Outpost 448, locate Lazgo Naden on the upper level of the central chamber, by the shipping containers. He'll be able to get the supplies to your ship. Just make sure you have two cargo spaces open. Complete this job, and you'll be paid 8,000 credits.^	^庄园需要一组绅士船员从448哨站走私一船医疗补给品。在哨站的一位合伙人应该已经把补给准备好了。当你抵达448哨站，在中央大厅的上层找到拉兹格·拿登，就在集装箱旁边。他会把补给送到你的船上。确保你有两格空闲的仓库。^
 4151	Report to Lazgo Naden on the upper level of the central chamber	Report to Lazgo Naden on the upper level of the central chamber
 4152	Acquire the prepared medical supplies	Acquire the prepared medical supplies
 4154	^Not long ago, the Estate made a deal with a rather ambitious crew working for the W.D. Corporation. For a fair price, the W.D. crew is willing to provide us with a few crates of handheld weapon parts. Someone is needed to serve as a middle-man and complete the transaction. If you bring the weapon boxes back here, you'll be paid 8,000 credits. Be sure to clear a spot in your cargo bay for the boxes.^	^Not long ago. the Estate made a deal with a rather ambitious crew working for the W.D. Corporation. For a fair price. the W.D. crew is willing to provide us with a few crates of handheld weapon parts. Someone is needed to serve as a middle-man and complete the transaction. If you bring the weapon boxes back here. you'll be paid 8.000 credits. Be sure to clear a spot in your cargo bay for the boxes.^
@@ -4703,7 +4703,7 @@ ID	Original Text	Translated Text
 4753	NEW	NEW
 4754	Statistics	统计
 4755	Manual$	手册$
-4756	Credits	货币
+4756	Credits	制作名单
 4757	Quit	退出
 4758	Report Bug / Suggestion	反馈Bug / 提出意见
 4759	Online Status	在线状态
@@ -5908,10 +5908,10 @@ ID	Original Text	Translated Text
 6662	CHAOS EVENT: 	CHAOS EVENT: 
 6663	Inf gained 	Inf gained 
 6664	 sectors	 sectors
-6665	MISSION COMPLETED	MISSION COMPLETED
+6665	MISSION COMPLETED	任务完成
 6666	MSN	MSN
-6667	NEW MISSION ACCEPTED	NEW MISSION ACCEPTED
-6668	[PL] has started mission: [STR0]	[PL] has started mission: [STR0]
+6667	NEW MISSION ACCEPTED	新任务已接受
+6668	[PL] has started mission: [STR0]	[PL]开始了任务：[STR0]
 6669	NONE	NONE
 6701	male	male
 6702	female	female
@@ -6053,7 +6053,7 @@ ID	Original Text	Translated Text
 6947	[[STR0]] upgraded by [STR1] to Level [STR2]	[[STR0]] upgraded by [STR1] to Level [STR2]
 6948	[PL] has upgraded an item: [STR0]	[PL] has upgraded an item: [STR0]
 6949	[PL] has upgraded a component: [STR0]	[PL] has upgraded a component: [STR0]
-6950	[STR0] UPGRADED!	[STR0] UPGRADED!
+6950	[STR0] UPGRADED!	[STR0]已升级！
 6951	EXT	EXT
 6952	Extraction of [[STR0]] attempted by [STR1]	Extraction of [[STR0]] attempted by [STR1]
 6953	[PL] has attempted to extract: [STR0]	[PL] has attempted to extract: [STR0]
@@ -8140,7 +8140,7 @@ ID	Original Text	Translated Text
 9246	Appear like an ally (works on drones)	显得像盟友一样 (在无人机上工作)
 9247	Steal Data		窃取数据
 9248	Siphens starmap data	Siphens 星图数据
-9249	Siphon Credits	吸取金钱
+9249	Siphon Credits	吸金
 9250	Steals credits	偷取金钱
 9251	Big Bluff	严重欺诈
 9252	False radiology alarm	伪造放射报警
@@ -8291,7 +8291,7 @@ ID	Original Text	Translated Text
 9397	Random Access	Random Access
 9398	Active Reset	Active Reset
 9399	SyberWar	SyberWar
-9400	OBJECTIVE COMPLETED	目标完成了
+9400	OBJECTIVE COMPLETED	目标完成
 9401	Collect Lost Colony Data Fragments	Collect Lost Colony Data Fragments
 9402	Collect a Lost Colony Data Fragment	Collect a Lost Colony Data Fragment
 9403	Drop warp core 	Drop warp core 
@@ -8335,7 +8335,7 @@ ID	Original Text	Translated Text
 9441	[STR1] Rep for [STR2] ([STR0])	[STR1] Rep for [STR2] ([STR0])
 9442	Your ship has been flagged due to mission: [STR0]	Your ship has been flagged due to mission: [STR0]
 9443	due to mission success	due to mission success
-9444	MISSION FAILED	MISSION FAILED
+9444	MISSION FAILED	任务失败
 9445	due to mission failure	due to mission failure
 9446	[End Conversation]	[结束对话]
 9447	MissileLockUI	MissileLockUI
@@ -9161,7 +9161,7 @@ ID	Original Text	Translated Text
 10398	ShipOS	ShipOS
 10400	v268.0 \^Pretty Parakeet\^	v268.0 \^Pretty Parakeet\^
 10402	Our Emitted Signatures	Our Emitted Signatures
-10404	EM Detection	电磁辐射
+10404	EM Detection	电磁感应
 10408	LF	LF
 10414	Cyberdefense	网络防御
 10416	SHIELD FREQ. MODE	护盾频率模式
