@@ -167,8 +167,8 @@ ID	Original Text	Translated Text
 166	Civilian	平民
 167	SunCircler Nomad 5	太阳神游牧者5
 168	Economic civilian transport ship. $$SunCircler Industries’ Nomad 5 model starship is often used by civilians for small local journeys. Nomad 5 ships are not designed for space combat and have very limited firepower with only one main turret and one standard turret for emergency defense purposes. 	经济型民用运输船.$$太阳神工业公司的游牧者 5型星际飞船经常被平民用于当地的小型旅行.游牧者5号船不是为太空作战而设计的.其火力非常有限.只有一个主炮塔和一个标准炮塔用于紧急防御.
-169	Fluffy Biscuit Co.	毛绒的饼干公司
-170	Fluffy One	毛茸茸的一个
+169	Fluffy Biscuit Co.	毛绒饼干公司
+170	Fluffy One	毛绒一号
 171	Delivery ship for the Fluffy Biscuit Company. $$The Fluffy One starship is exclusively used for the delivery and sale of biscuits. Each Fluffy One has an integrated freezer to store crates of perishable products. The Fluffy One is not designed for intense combat and comes equipped with a special ‘Biscuit Bomb’ which emits an electromagnetic pulse that can disable nearby enemy vessels.	蓬松饼干公司的运送船.$$蓬松一号星舰专门用于运送和销售饼干.每艘 "蓬松一号 "都有一个集成的冰柜.用来储存成箱的易腐烂产品.蓬松一号不是为激烈的战斗而设计的.它配备了一个特殊的 "饼干炸弹".可以发射电磁脉冲.使附近的敌方船只失效.
 172	Small Starship	小型星舰
 173	All	全开
@@ -4512,7 +4512,7 @@ ID	Original Text	Translated Text
 4560	LEVEL	等级
 4561	2	2
 4562	XP	经验点
-4563	CREDITS	CREDITS
+4563	CREDITS	金钱
 4564	CHAOS	混乱
 4565	NAME	NAME
 4566	CLASS	CLASS
@@ -4522,7 +4522,7 @@ ID	Original Text	Translated Text
 4570	Conn	Conn
 4571	Game Name	游戏名称
 4572	<	<
-4573	back	back
+4573	back	返回
 4574	PlayerName	PlayerName
 4575	>	>
 4576	reset bot talents	reset bot talents
@@ -4573,15 +4573,15 @@ ID	Original Text	Translated Text
 4621	Misc	仓库
 4622	Thrust	推进器
 4623	WGT: 20.0 / 20.0	WGT: 20.0 / 20.0
-4624	EQUIPMENT	EQUIPMENT
+4624	EQUIPMENT	装备
 4625	4	4
 4626	5	5
 4627	6	6
-4628	My Inventory	My Inventory
+4628	My Inventory	我的库存
 4629	bot's Inventory	bot's Inventory
-4630	Active	Active
-4631	Abandoned	Abandoned
-4632	Completed	Completed
+4630	Active	已激活
+4631	Abandoned	已放弃
+4632	Completed	已完成
 4633	New Text	New Text
 4634	Ship Component	Ship Component
 4635	COMP TYPE	COMP TYPE
@@ -4595,18 +4595,18 @@ ID	Original Text	Translated Text
 4643	Send	发送
 4644	Mission	任务
 4645	Abandon	Abandon
-4646	SHIP REGISTRATION	SHIP REGISTRATION
+4646	SHIP REGISTRATION	舰船所属派系
 4647	W.D. Corp	W.D. Corp
 4648	How other ships will see you (when NOT revealed)	How other ships will see you (when NOT revealed)
-4649	CREW REPUTATION	CREW REPUTATION
+4649	CREW REPUTATION	船员声望
 4650	C.U.	C.U.
 4651	How factions see your crew (when revealed)	How factions see your crew (when revealed)
 4652	-2	-2
 4653	Hated	Hated
-4654	CREW FACTION	CREW FACTION
+4654	CREW FACTION	船员所属派系
 4655	The faction that will assign you missions	The faction that will assign you missions
 4656	Long Range Comms Disabled	Long Range Comms Disabled
-4657	DATA FRAGMENTS	DATA FRAGMENTS
+4657	DATA FRAGMENTS	数据碎片
 4658	Fragment	Fragment
 4659	Desc$	Desc$
 4660	lorem	lorem
@@ -4727,7 +4727,7 @@ ID	Original Text	Translated Text
 4777	edit	edit
 4778	Find Crew	Find Crew
 4779	Crew Finder	Crew Finder
-4780	Weapons Spec.	Weapons Spec.
+4780	Weapons Spec.	武器专家
 4781	Preferred Classes For Search	Preferred Classes For Search
 4782	OFFLINE	离线
 4783	ONLINE	在线
@@ -4810,7 +4810,7 @@ ID	Original Text	Translated Text
 4860	Change Region	切换地区
 4861	Player Name	玩家名
 4862	Allow Crewmates To View Steam Profile	允许舰员查看Steam资料
-4863	Show Controls	Show Controls
+4863	Show Controls	显示控制键位
 4864	Show Damage Numbers	显示伤害数值
 4865	Show In-Game UI	显示游戏内界面
 4866	Show Notifications	显示通知
@@ -4821,7 +4821,7 @@ ID	Original Text	Translated Text
 4871	Chat Screen Width$	聊天栏宽度$
 4872	Chat Num Lines$	Chat Num Lines$
 4873	UI Scale	界面缩放
-4874	UI Margin	UI Margin
+4874	UI Margin	界面外边距
 4875	Screen Tilt	Screen Tilt
 4876	Autosave Timer	自动保存时间
 4877	Autosave	自动保存
@@ -5412,7 +5412,7 @@ ID	Original Text	Translated Text
 5488	+1 processed scrap due to 	+1 processed scrap due to 
 5489	+15% coolant refill due to 	+15% coolant refill due to 
 5507	WD	WD
-5508	CU	CU
+5508	CU	殖联
 5509	GT	GT
 5510	FL	FL
 5511	PT	PT
@@ -5778,7 +5778,7 @@ ID	Original Text	Translated Text
 6421	Visit the Academy to learn more about many topics from the basics of operating a starship to class-specific roles.	去学院了解更多东西：从操作星舰的基本要领，到各个职业的作用。
 6422	Nebulas block long range transmissions, which means you won't lose reputation or become flagged while inside a nebula sector.	星云会阻挡远距离通信，也就是说，当你处在星云中时你不会损失声望，也不会被标记。
 6423	Atriums will continue to respawn enemy crewmembers until their claim on their ship is removed. Likewise, your atrium will continue to respawn you unless enemy boarders take over your ship.	中庭会一直重生敌方船员，直到其舰船上的权限被移除。类似的，你的中庭也会继续重生你，直到敌方入侵者占领你的舰船。
-6424	In Colonial Union space, cargo inspection stations send orders over long range comms to check ships for contraband. You will have a limited number of jumps to comply, or your ship will be flagged for avoiding the inspection.	在殖民联盟的领域，仓库检查站会通过远距离通信下令检查走私货。你必须在限定跳跃次数内完成，否则你的舰船会因逃避检查被标记。
+6424	In Colonial Union space, cargo inspection stations send orders over long range comms to check ships for contraband. You will have a limited number of jumps to comply, or your ship will be flagged for avoiding the inspection.	在殖民联盟的领域，仓库检查站会通过远距离通信下令检查走私货。你必须在限定跳跃次数内完成检查，否则你的舰船会因逃避检查而被标记。
 6425	Sector Commanders are incredibly difficult fights in space shown as ! on the starmap. Be prepared before warping into such sectors.	区域指挥官极难对付！他们在星图上被“!”标记。在跃迁到这些星区前做好充分准备。
 6426	You can change your appearance in-game at Barber stations which are located at any of the major hubs.	你可以在理发站（Barber stations）更改你的外观，且无需退出游戏。理发站能在主要枢纽中找到。
 6427	You can reset your talents in-game at Neural Rewriters which are located at any of the major hubs.	你可以在神经系统重写站（Neural Rewriter）重置天赋，且无需退出游戏。神经系统重写站能在主要枢纽中找到。
@@ -5810,22 +5810,22 @@ ID	Original Text	Translated Text
 6453	When firing the main turret, holding the button until the two red rings are aligned will boost the turret's damage.	发射主炮塔时，按住发射键直到两个红色圆圈重叠可以增加炮塔伤害。
 6454	Missions received through long range comms are usually timed and must be completed within a certain jump count. Keep an eye on your remaining jumps under the mission's objectives in your TAB menu.	通过远距离通信接受的任务通常都有时限且必须在限定跳跃次数内完成。在TAB菜单中的任务目标下可以找到剩余跳跃次数。
 6455	Mission items are usually labeled blue and cannot be sold at shops. If your mission requires an item that isn't labeled blue, remember not to sell it!	任务物品通常被标蓝且不能在商店卖出。如果你的任务所需物品没被标蓝，记得不要卖掉！
-6456	The atomizer is for extracting chemical compounds from research materials. Research materials will indicate which compounds they contain under their description in the inventory menu. If an item doesn't contain a compound for research, it won't increase the reserves of your research station.	The atomizer is for extracting chemical compounds from research materials. Research materials will indicate which compounds they contain under their description in the inventory menu. If an item doesn't contain a compound for research, it won't increase the reserves of your research station.
-6457	In addition to checking cargo, inspection bots will search lockers and your personal inventory for contraband. You can use the atomizer to get rid of illicit items before a cargo inspection.	In addition to checking cargo, inspection bots will search lockers and your personal inventory for contraband. You can use the atomizer to get rid of illicit items before a cargo inspection.
-6458	It's often a good idea to have more than one shield boost program installed on your ship.	It's often a good idea to have more than one shield boost program installed on your ship.
-6459	Check the status screen to determine if an enemy ship has a functioning life support system before boarding without an exosuit.	Check the status screen to determine if an enemy ship has a functioning life support system before boarding without an exosuit.
-6460	An enemy ship can be boarded when its shield drops below its quantum shield percentage.	An enemy ship can be boarded when its shield drops below its quantum shield percentage.
-6461	An instant antivirus program is always useful, even if your ship has a high cyberdefense rating.	An instant antivirus program is always useful, even if your ship has a high cyberdefense rating.
-6462	When your ship has high enough detection of an enemy vessel, the Scientist can use sensor exploits to target damage and weaken the enemy ship.	When your ship has high enough detection of an enemy vessel, the Scientist can use sensor exploits to target damage and weaken the enemy ship.
-6463	Every warp or expending of a fuel capsule spawns a clip in the ammo crate. Remember to pick it up.	Every warp or expending of a fuel capsule spawns a clip in the ammo crate. Remember to pick it up.
-6464	The Scientist can drag and drop programs to change their recharge order.	The Scientist can drag and drop programs to change their recharge order.
-6465	The Sylvassi Cypher Lab can teach you how to solve the cyphers found on planets across the galaxy.	The Sylvassi Cypher Lab can teach you how to solve the cyphers found on planets across the galaxy.
-6466	The healing beam rifle can heal multiple crewmembers at the same time and can also damage enemies.	The healing beam rifle can heal multiple crewmembers at the same time and can also damage enemies.
-6467	Weapon damage is increased if you get a headshot on an enemy.	Weapon damage is increased if you get a headshot on an enemy.
-6468	A glowing blue spot on an asteroid or space debris indicates that there is a research material or experience. The Scientist can pick it up by firing a sensor probe at it.	A glowing blue spot on an asteroid or space debris indicates that there is a research material or experience. The Scientist can pick it up by firing a sensor probe at it.
-6469	As a Colonial Union or W.D. Corporation crew, you will lose reputation with your faction if you refuse mission orders from your headquarters.	As a Colonial Union or W.D. Corporation crew, you will lose reputation with your faction if you refuse mission orders from your headquarters.
-6470	Chaos increases the overall difficulty of the game. Chaos is gained by warping, fighting other ships, and performing acts of piracy.	Chaos increases the overall difficulty of the game. Chaos is gained by warping, fighting other ships, and performing acts of piracy.
-6471	The list of ships on the upper right of the screen are arranged by distance from your position. The first ship on that list is the one you are currently closest to.	The list of ships on the upper right of the screen are arranged by distance from your position. The first ship on that list is the one you are currently closest to.
+6456	The atomizer is for extracting chemical compounds from research materials. Research materials will indicate which compounds they contain under their description in the inventory menu. If an item doesn't contain a compound for research, it won't increase the reserves of your research station.	分解器用于从研究材料中提取化学混合物。物品栏中会显示研究材料中含有何种混合物。如果某件物品不含有可供研究的混合物，那其也不会增加研究站的库存。
+6457	In addition to checking cargo, inspection bots will search lockers and your personal inventory for contraband. You can use the atomizer to get rid of illicit items before a cargo inspection.	除了检查仓库之外，检查机器人也会搜索柜子和个人物品中的走私货。你可以在检查仓库之前利用分解器销毁非法物品。
+6458	It's often a good idea to have more than one shield boost program installed on your ship.	在舰船上安装多个护盾增强程序是个不错的主意。
+6459	Check the status screen to determine if an enemy ship has a functioning life support system before boarding without an exosuit.	在不穿护甲登敌舰之前记得通过状态屏幕确定敌舰是否有工作正常的生命维持系统。
+6460	An enemy ship can be boarded when its shield drops below its quantum shield percentage.	敌舰的护盾值低于量子护盾百分比时即可登舰。
+6461	An instant antivirus program is always useful, even if your ship has a high cyberdefense rating.	有个清除病毒程序总是好的，即使你的舰船有较高的网络防御值。
+6462	When your ship has high enough detection of an enemy vessel, the Scientist can use sensor exploits to target damage and weaken the enemy ship.	当你的舰船对敌舰的感应程度足够高时，科学家即可利用传感器定向伤害和削弱敌舰。
+6463	Every warp or expending of a fuel capsule spawns a clip in the ammo crate. Remember to pick it up.	每次跃迁或使用一个燃料胶囊都会在弹药箱内生成一个单价。记得捡起来。
+6464	The Scientist can drag and drop programs to change their recharge order.	科学家可以拖动并放置程序以更改它们的充能顺序。
+6465	The Sylvassi Cypher Lab can teach you how to solve the cyphers found on planets across the galaxy.	西尔瓦西密码实验室会教你如何破解星系中行星上的西尔瓦西密码。
+6466	The healing beam rifle can heal multiple crewmembers at the same time and can also damage enemies.	治疗光束步枪可以同时治疗多个船员，也可以伤害敌人。
+6467	Weapon damage is increased if you get a headshot on an enemy.	爆头敌人时增加武器伤害。
+6468	A glowing blue spot on an asteroid or space debris indicates that there is a research material or experience. The Scientist can pick it up by firing a sensor probe at it.	小行星或太空残骸上的发光蓝点表示那里有一个研究材料或经验。科学家可以通过朝其发射探测器以获取之。
+6469	As a Colonial Union or W.D. Corporation crew, you will lose reputation with your faction if you refuse mission orders from your headquarters.	作为殖民联盟或W.D.公司的船员，如果你拒绝来自总部的任务命令会损失与你的派系的声望。
+6470	Chaos increases the overall difficulty of the game. Chaos is gained by warping, fighting other ships, and performing acts of piracy.	混乱增加游戏总体难度。跃迁、与其它舰船战斗和干海盗行当都会增加混乱。
+6471	The list of ships on the upper right of the screen are arranged by distance from your position. The first ship on that list is the one you are currently closest to.	屏幕右上角的舰船列表以与你的距离排列。列表中第一个舰船是目前与你最近的那一艘。
 6472	The captain button in the crew section of the TAB menu can be used by the Captain to adjust the crew's allowance and create custom orders.	The captain button in the crew section of the TAB menu can be used by the Captain to adjust the crew's allowance and create custom orders.
 6473	Inventory items have weight. Exceeding your weight limit will lower your speed and prevent you from sprinting.	Inventory items have weight. Exceeding your weight limit will lower your speed and prevent you from sprinting.
 6474	HealBerryAOE	HealBerryAOE
@@ -6019,7 +6019,7 @@ ID	Original Text	Translated Text
 6871	Must complete Find the Lost Colony campaign	必须完成寻找失落的殖民地战役
 6874	ATOMIZER	雾化器
 6877	READY	准备
-6892	Load Research Samples into the Atomizer to discover and research new talents	将研究样本装入器皿里面，发现和研究新的物品与技术
+6892	Load Research Samples into the Atomizer to discover and research new talents	将研究样本装入分解器里面，发现和研究新的物品与技术
 6893	ResearchDesc	研究报告
 6894	ResearchButton	研究按钮
 6895	RESEARCH	研究
@@ -6105,14 +6105,14 @@ ID	Original Text	Translated Text
 7009	ENGINEER TALENT 	ENGINEER TALENT 
 7010	Warp Charges To Research:	Warp Charges To Research:
 7011	</size>	</size>
-7012	Crew Rep Is Revealed	船员代表者被揭露
-7029	Cloak$NEEDS POWER	Cloak$需要电力
-7030	Cloak$SHIELDS < 50%	Cloak$护盾 < 50%
-7031	Cloak$ACTIVE	Cloak$ACTIVE
-7032	Cloak$INACTIVE	Cloak$INACTIVE
-7033	Cloak$PRIMING	Cloak$PRIMING
-7034	Cloak$READY	Cloak$READY
-7035	INTRUDER ALARM!	INTRUDER ALARM!
+7012	Crew Rep Is Revealed	Crew Rep Is Revealed
+7029	Cloak$NEEDS POWER	隐形$需要电力
+7030	Cloak$SHIELDS < 50%	隐形$护盾 < 50%
+7031	Cloak$ACTIVE	隐形$已激活
+7032	Cloak$INACTIVE	隐形$未激活
+7033	Cloak$PRIMING	隐形$准备中
+7034	Cloak$READY	隐形$就绪
+7035	INTRUDER ALARM!	入侵者警报！
 7052	+1 XP (unvisited sector)	+1 XP (unvisited sector)
 7053	[STR0] generated 1 processed scrap	[STR0] generated 1 processed scrap
 7062	Shield	Shield
@@ -6289,9 +6289,9 @@ ID	Original Text	Translated Text
 7238	Create New Translation	创建新翻译
 7239	Enter a title for your translation:	Enter a title for your translation:
 7240	alphabacker_names	alphabacker_names
-7241	PULSAR: LOST COLONY	PULSAR: LOST COLONY
-7242	DEVELOPED BY	DEVELOPED BY
-7243	 LEAFY GAMES	 LEAFY GAMES
+7241	PULSAR: LOST COLONY	脉冲星：失落殖民地
+7242	DEVELOPED BY	由
+7243	 LEAFY GAMES	LEAFY GAMES制作
 7244	PROGRAMMING	PROGRAMMING
 7245	Preston Stoll	Preston Stoll
 7246	ART	ART
@@ -6671,36 +6671,36 @@ ID	Original Text	Translated Text
 7620	Can't Load (In Warp)	Can't Load (In Warp)
 7621	Can't Load (Not Host)	Can't Load (Not Host)
 7622	<color=#ffffffff>	<color=#ffffffff>
-7623	JUMPS COMPLETED	JUMPS COMPLETED
+7623	JUMPS COMPLETED	跳跃次数
 7624	: $	: $
 7625	: $$	: $$
-7626	Total: 	Total: 
-7627	LEVELS EARNED	LEVELS EARNED
-7628	AOG	AOG
-7629	FB	FB
-7630	DEATH COUNT	DEATH COUNT
+7626	Total: 	总计：
+7627	LEVELS EARNED	升级次数
+7628	AOG	绅士同盟会
+7629	FB	毛绒饼干
+7630	DEATH COUNT	死亡次数
 7631	Pawn Deaths: 	Pawn Deaths: 
 7632	Crew Deaths: 	Crew Deaths: 
-7633	DAMAGE	DAMAGE
+7633	DAMAGE	伤害
 7634	Pawn Damage Dealt: 	Pawn Damage Dealt: 
 7635	Pawn Damage Taken: 	Pawn Damage Taken: 
-7636	Ship Damage Dealt: 	Ship Damage Dealt: 
-7637	Ship Damage Taken: 	Ship Damage Taken: 
-7638	MISC	MISC
-7639	System Dmg Fixed: 	System Dmg Fixed: 
-7640	Footsteps Taken: 	Footsteps Taken: 
-7641	Enemy Ships Destroyed: 	Enemy Ships Destroyed: 
-7642	Missions Completed: 	Missions Completed: 
-7643	Shots Fired: 	Shots Fired: 
-7644	Biscuits Sold: 	Biscuits Sold: 
-7645	Talents Unlocked: 	Talents Unlocked: 
-7646	Blind Jumps Completed: 	Blind Jumps Completed: 
-7647	Sectors Types Visited: 	Sectors Types Visited: 
-7648	Max Crew Level Reached: 	Max Crew Level Reached: 
-7649	Max Chaos Level Reached: 	Max Chaos Level Reached: 
-7650	Sector Types Discovered: 	Sector Types Discovered: 
-7651	Earned: 	Earned: 
-7652	Spent: 	Spent: 
+7636	Ship Damage Dealt: 	舰船总计产生伤害：
+7637	Ship Damage Taken: 	舰船总计受到伤害：
+7638	MISC	杂项
+7639	System Dmg Fixed: 	系统修复次数：
+7640	Footsteps Taken: 	步数：
+7641	Enemy Ships Destroyed: 	敌舰摧毁次数：
+7642	Missions Completed: 	任务完成次数：
+7643	Shots Fired: 	开火次数：
+7644	Biscuits Sold: 	饼干卖出数量：
+7645	Talents Unlocked: 	天赋解锁数量：
+7646	Blind Jumps Completed: 	盲跳完成次数：
+7647	Sectors Types Visited: 	已前往的星区种数：
+7648	Max Crew Level Reached: 	最高船员等级：
+7649	Max Chaos Level Reached: 	最大混乱值：
+7650	Sector Types Discovered: 	已发现的星区种类：
+7651	Earned: 	已赚取：
+7652	Spent: 	已花费：
 7653	AMMO SUPPLY	弹药供应
 7654	AMMO/FOOD SUPPLY	弹药/食品供应
 7661	Warp to a new sector to sell more biscuits.	Warp to a new sector to sell more biscuits.
@@ -6764,7 +6764,7 @@ ID	Original Text	Translated Text
 7734	km	km
 7740	 crews - 	 组员 - 
 7748	ViewGalaxySettings	ViewGalaxySettings
-7749	Fluffy Two	Fluffy Two
+7749	Fluffy Two	毛绒二号
 7750	Interceptor	Interceptor
 7751	Paladin	Paladin
 7752	Failed to join crew! Can't join Secured game when not logged in to Steam!	Failed to join crew! Can't join Secured game when not logged in to Steam!
@@ -7322,9 +7322,9 @@ ID	Original Text	Translated Text
 8331	Heals nearby allies for a small amount over time	在一段时间内治疗附近的盟友，治疗量很小。
 8332	Frequency Amplification	频率放大
 8333	Increases positive effects of the shield frequency setting.	增加屏蔽频率设置的积极效果。
-8334	Probe Specialty: XP Gain	探测仪专业: XP 增长
+8334	Probe Specialty: XP Gain	探测器专业: XP 增长
 8335	Increased chance to gain extra XP when performing probe research (10% per rank)	在进行探测研究时增加获得额外XP的机会 (10% 每级)
-8336	Probe Specialty: Cooldown	探测仪专业: 冷却时间
+8336	Probe Specialty: Cooldown	探测器专业: 冷却时间
 8337	Decreased cooldown and capacitor usage when firing probes (-10% per rank)	减少了发射探测仪的冷却时间和电容用量 (-10% 每级)
 8338	Nano Anti-Fire System	纳米反火灾系统
 8339	Slows the spread and growth of fires	减缓火灾的蔓延和增长
@@ -7693,11 +7693,11 @@ ID	Original Text	Translated Text
 8788	cosmeticData.bin	cosmeticData.bin
 8789	You are leaving the mission zone!	You are leaving the mission zone!
 8790	GAME OVER: THE SOURCE HAS WON	GAME OVER: THE SOURCE HAS WON
-8794	move your character	move your character
-8796	Welcome to The Academy!	Welcome to The Academy!
-8797	unlock mouse cursor	unlock mouse cursor
-8798	open escape menu	open escape menu
-8799	use tab menu	use tab menu
+8794	move your character	移动人物
+8796	Welcome to The Academy!	欢迎来到学院！
+8797	unlock mouse cursor	解锁鼠标指针
+8798	open escape menu	打开escape菜单
+8799	use tab menu	使用tab菜单
 8800	Piloting test unavailable in VR mode, although VR piloting is possible outside of The Academy	Piloting test unavailable in VR mode, although VR piloting is possible outside of The Academy
 8801	Reach the destination without touching the walls	Reach the destination without touching the walls
 8802	Collect the scrap by flying near it	Collect the scrap by flying near it
@@ -7755,7 +7755,7 @@ ID	Original Text	Translated Text
 8858	A superior cloaking system with a rapid charge rate. Designed and installed by Sylvassi engineers.	A superior cloaking system with a rapid charge rate. Designed and installed by Sylvassi engineers.
 8859	Test 2 POWER	Test 2 POWER
 8860	Jump Processor	跃迁处理器
-8861	Shield Boost	护盾提高
+8861	Shield Boost	护盾增强
 8862	Cyber Defense	网络防御
 8863	Shield Recharger	护盾充电
 8864	% of max	% 最大值
@@ -8048,7 +8048,7 @@ ID	Original Text	Translated Text
 9154	Polytechnic Federation technology	科技技术联合会
 9155	Fluffy Biscuit Jumbo Reactor	毛绒饼干巨型反应堆
 9156	A standard reactor for Fluffy Biscuit Co. delivery ships. It produces a small output but is fairly difficult to detect.	A standard reactor for Fluffy Biscuit Co. delivery ships. It produces a small output but is fairly difficult to detect.
-9157	G.T.C. Quiet Cupcake	G.T.C. 平静的纸杯蛋糕
+9157	G.T.C. Quiet Cupcake	G.T.C.安静小蛋糕
 9158	A modified Fluffy Biscuit Co. reactor also known as a murmur engine. It is an Alliance of Gentlemen favorite due to its small EM signature. If a crew does not want its presence known, this reactor will surely help in that endeavor.	A modified Fluffy Biscuit Co. reactor also known as a murmur engine. It is an Alliance of Gentlemen favorite due to its small EM signature. If a crew does not want its presence known, this reactor will surely help in that endeavor.
 9159	Ancient Reactor	古老的反应堆
 9160	Roland Reactor	罗兰反应堆
