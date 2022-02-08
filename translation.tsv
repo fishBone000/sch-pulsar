@@ -3643,14 +3643,14 @@ ID	Original Text	Translated Text
 3642	History and Species	History and Species
 3643	What do you wish to learn about?	What do you wish to learn about?
 3644	Greetings. As one of the information masters of the Academy, I can teach you about factions, races, and history. If there is a topic you are interested in learning about, please ask, and I will give you a general overview.	Greetings. As one of the information masters of the Academy. I can teach you about factions. races. and history. If there is a topic you are interested in learning about. please ask. and I will give you a general overview.
-3645	Class Training covers the main crew roles aboard a starship. If you already understand the fundamentals of operating a starship, you can skip to Class Training. Head through the door behind this desk and use the teleporter.	Class Training covers the main crew roles aboard a starship. If you already understand the fundamentals of operating a starship. you can skip to Class Training. Head through the door behind this desk and use the teleporter.
-3646	Class Training	Class Training
-3647	The Manual is a document that goes over both general and class related features of the game. If you want to revisit topics discussed in the Academy’s training courses or learn more about a particular aspect of the game, you can consult the Manual at any time. Access the Manual through the main menu, escape menu, or game website (pulsarthegame.com).	The Manual is a document that goes over both general and class related features of the game. If you want to revisit topics discussed in the Academy’s training courses or learn more about a particular aspect of the game. you can consult the Manual at any time. Access the Manual through the main menu. escape menu. or game website (pulsarthegame.com).
+3645	Class Training covers the main crew roles aboard a starship. If you already understand the fundamentals of operating a starship, you can skip to Class Training. Head through the door behind this desk and use the teleporter.	职业训练包含星舰中主要的船员岗位。如果你已经了解操纵星舰的基本要领，你可以跳过到职业训练。走过后面的那扇门然后使用传送器。
+3646	Class Training	职业训练
+3647	The Manual is a document that goes over both general and class related features of the game. If you want to revisit topics discussed in the Academy’s training courses or learn more about a particular aspect of the game, you can consult the Manual at any time. Access the Manual through the main menu, escape menu, or game website (pulsarthegame.com).	The Manual is a document that goes over both general and class related features of the game. If you want to revisit topics discussed in the Academy’s training courses or learn more about a particular aspect of the game, you can consult the Manual at any time. Access the Manual through the main menu, escape menu, or game website (pulsarthegame.com).
 3648	Manual	手册
-3649	Welcome to the Academy. To begin your Primary Training, proceed through the next room and use the screen to activate the teleporter. In Primary Training, you will learn fundamental tasks for operating a starship.	Welcome to the Academy. To begin your Primary Training. proceed through the next room and use the screen to activate the teleporter. In Primary Training. you will learn fundamental tasks for operating a starship.
-3650	Talk to the Desk Assistant in the next room, and they’ll direct you to the training course.	Talk to the Desk Assistant in the next room. and they’ll direct you to the training course.
-3651	When interacting with a screen or switch, you can hold [___[unlock_mouse]___] to unlock your cursor from your camera. This can make it easier to click on buttons.	When interacting with a screen or switch. you can hold [___[unlock_mouse]___] to unlock your cursor from your camera. This can make it easier to click on buttons.
-3652	If you want to run through the training course, hold [___[sprint]___] to sprint. Just be mindful of your stamina.	If you want to run through the training course. hold [___[sprint]___] to sprint. Just be mindful of your stamina.
+3649	Welcome to the Academy. To begin your Primary Training, proceed through the next room and use the screen to activate the teleporter. In Primary Training, you will learn fundamental tasks for operating a starship.	欢迎来到学院。要开始主要课程的话，前往下一个房间，用那里的屏幕激活传送器。在主要课程中，你将学习操控星舰的基本任务。
+3650	Talk to the Desk Assistant in the next room, and they’ll direct you to the training course.	去找隔壁的前台助理（Desk Assistant），他们会带你去训练课程。
+3651	When interacting with a screen or switch, you can hold [___[unlock_mouse]___] to unlock your cursor from your camera. This can make it easier to click on buttons.	在和屏幕或者开关互动的时候，你可以按住[___[unlock_mouse]___]解锁你的鼠标。这样按按钮就变得更方便了。
+3652	If you want to run through the training course, hold [___[sprint]___] to sprint. Just be mindful of your stamina.	如果你想在训练课程中奔跑的话，按住[___[sprint]___]冲刺。不过要留意一下你的体力。
 3653	Repairing is an important task aboard a starship. During combat, ship systems can get damaged, which can start fires and reduce the performance of the ship. Repair ship systems to bring them back to full health.	Repairing is an important task aboard a starship. During combat. ship systems can get damaged. which can start fires and reduce the performance of the ship. Repair ship systems to bring them back to full health.
 3654	Real World Applications	Real World Applications
 3655	For your first lesson, you’ll learn how to use the Repair Gun. Do you see that door over there? Its control panel is damaged. It needs to be repaired before you can proceed. To begin, pick up the Repair Gun on the table. Open your tab menu with [___[tabmenu]___], click “Inventory”, select the Repair Gun, and click “Equip”. Then choose which slot you would like to equip it. Once equipped, go to the damaged control panel, repair it, and proceed to the next room.	For your first lesson. you’ll learn how to use the Repair Gun. Do you see that door over there? Its control panel is damaged. It needs to be repaired before you can proceed. To begin. pick up the Repair Gun on the table. Open your tab menu with [___[tabmenu]___]. click “Inventory”. select the Repair Gun. and click “Equip”. Then choose which slot you would like to equip it. Once equipped. go to the damaged control panel. repair it. and proceed to the next room.
@@ -5826,8 +5826,8 @@ ID	Original Text	Translated Text
 6469	As a Colonial Union or W.D. Corporation crew, you will lose reputation with your faction if you refuse mission orders from your headquarters.	作为殖民联盟或W.D.公司的船员，如果你拒绝来自总部的任务命令会损失与你的派系的声望。
 6470	Chaos increases the overall difficulty of the game. Chaos is gained by warping, fighting other ships, and performing acts of piracy.	混乱增加游戏总体难度。跃迁、与其它舰船战斗和干海盗行当都会增加混乱。
 6471	The list of ships on the upper right of the screen are arranged by distance from your position. The first ship on that list is the one you are currently closest to.	屏幕右上角的舰船列表以与你的距离排列。列表中第一个舰船是目前与你最近的那一艘。
-6472	The captain button in the crew section of the TAB menu can be used by the Captain to adjust the crew's allowance and create custom orders.	The captain button in the crew section of the TAB menu can be used by the Captain to adjust the crew's allowance and create custom orders.
-6473	Inventory items have weight. Exceeding your weight limit will lower your speed and prevent you from sprinting.	Inventory items have weight. Exceeding your weight limit will lower your speed and prevent you from sprinting.
+6472	The captain button in the crew section of the TAB menu can be used by the Captain to adjust the crew's allowance and create custom orders.	舰长可通过TAB菜单中“船员”子页里的舰长按钮调整船员津贴及创建自定义命令。
+6473	Inventory items have weight. Exceeding your weight limit will lower your speed and prevent you from sprinting.	库存中的物品也有重量。超过你的重量限制会降低你的移速并使你不可冲刺。
 6474	HealBerryAOE	HealBerryAOE
 6475	SpicyAOE	SpicyAOE
 6476	Molten	Molten
@@ -6460,9 +6460,9 @@ ID	Original Text	Translated Text
 7409	Game Settings	Game Settings
 7410	View Manual	View Manual
 7411	View Controls	View Controls
-7412	Can't Save (In Warp)	Can't Save (In Warp)
-7413	Can't Save (In Danger)	Can't Save (In Danger)
-7414	Only Host Can Save	Only Host Can Save
+7412	Can't Save (In Warp)	无法保存（跃迁中）
+7413	Can't Save (In Danger)	无法保存（处于危险中）
+7414	Only Host Can Save	仅房主可保存
 7415	GameEnd	GameEnd
 7416	Try To Reconnect	尝试重连
 7417	Go Offline	下线
@@ -6665,11 +6665,11 @@ ID	Original Text	Translated Text
 7614	: issue reading language file!	: issue reading language file!
 7615	Error: No content in content folder!	Error: No content in content folder!
 7616	View Galaxy Settings	View Galaxy Settings
-7617	Can't Save (In Academy)	Can't Save (In Academy)
-7618	Can't Save (No Playership)	Can't Save (No Playership)
-7619	Can't Save (Not Host)	Can't Save (Not Host)
-7620	Can't Load (In Warp)	Can't Load (In Warp)
-7621	Can't Load (Not Host)	Can't Load (Not Host)
+7617	Can't Save (In Academy)	无法保存（在学院中）
+7618	Can't Save (No Playership)	无法保存（无玩家舰船）
+7619	Can't Save (Not Host)	无法保存（非房主）
+7620	Can't Load (In Warp)	无法加载（跃迁中）
+7621	Can't Load (Not Host)	无法加载（非房主）
 7622	<color=#ffffffff>	<color=#ffffffff>
 7623	JUMPS COMPLETED	跳跃次数
 7624	: $	: $
@@ -7171,7 +7171,7 @@ ID	Original Text	Translated Text
 8180	- NO INFO -	- NO INFO -
 8181	_LaserColor	_LaserColor
 8182	_TimeSinceShot	_TimeSinceShot
-8183	Talk to	Talk to
+8183	Talk to	交谈：
 8184	MissionStartPrefab	MissionStartPrefab
 8185	MissionEndPrefab	MissionEndPrefab
 8186	LateExecuteAction:   	LateExecuteAction:   
@@ -7367,7 +7367,7 @@ ID	Original Text	Translated Text
 8376	Reduces incoming hull damage by 5% per rank	每级减少传入的船体伤害5%。
 8377	Damage Mitigation	伤害缓解
 8378	Reduces incoming system damage by 5% per rank	每级减少5%传入系统的伤害
-8379	Encumbered Sprint	枪手
+8379	Encumbered Sprint	负重冲刺
 8380	Allows sprinting while encumbered	允许在携带武器的情况下进行冲刺
 8381	Turret Damage Booster	炮塔伤害增强器
 8382	All friendly ship turrets will deal 4% more damage per rank	所有友舰的炮塔每级的伤害将增加4%。
