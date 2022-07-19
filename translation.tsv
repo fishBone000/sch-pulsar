@@ -3652,10 +3652,10 @@ ID	Original Text	Translated Text
 3651	When interacting with a screen or switch, you can hold [___[unlock_mouse]___] to unlock your cursor from your camera. This can make it easier to click on buttons.	在和屏幕或者开关互动的时候，你可以按住[___[unlock_mouse]___]解锁你的鼠标。这样按按钮就变得更方便了。
 3652	If you want to run through the training course, hold [___[sprint]___] to sprint. Just be mindful of your stamina.	如果你想在训练课程中奔跑的话，按住[___[sprint]___]冲刺。不过要留意一下你的体力。
 3653	Repairing is an important task aboard a starship. During combat, ship systems can get damaged, which can start fires and reduce the performance of the ship. Repair ship systems to bring them back to full health.	修理是星舰上一项重要的任务。在战斗中，舰船系统可能会受损，进而可能会引发火灾和降低舰船性能。去修理舰船系统以完全修复它们。
-3654	Real World Applications	Real World Applications
+3654	Real World Applications	在现实世界中的应用
 3655	For your first lesson, you’ll learn how to use the Repair Gun. Do you see that door over there? Its control panel is damaged. It needs to be repaired before you can proceed. To begin, pick up the Repair Gun on the table. Open your tab menu with [___[tabmenu]___], click “Inventory”, select the Repair Gun, and click “Equip”. Then choose which slot you would like to equip it. Once equipped, go to the damaged control panel, repair it, and proceed to the next room.	这是你的第一个课程，你会学习如何使用修理枪。看到那边的门了吗？它的控制面板坏掉了。在继续前进前你需要先修理它。首先，捡起桌上的修理枪。用[___[tabmenu]___]打开你的tab菜单，点击“库存”，选择修理枪，然后点击“装备”。接着选择你想装备的装备槽。装备好了之后，去到损坏的控制面板，修好它，再前往下一个房间。
 3656	Fires can be a dangerous threat aboard a starship. They often spring up during combat or if the ship is exposed to extreme heat. Fires can spread, and if large enough they will diminish oxygen levels aboard your ship. Using your Fire Extinguisher is a quick way to put out fires. Fires can also be put out by turning off the oxygen on your ship, but human crewmembers will need to don an exosuit in order to survive without air. You'll learn more about exosuits next.	在星舰上火灾可能会成为危险的威胁。火灾经常在战斗中或在舰船暴露于极端高温时出现。火灾会蔓延，而且如果足够大，火灾会降低你的舰船的氧气水平。使用灭火器是个快速扑灭火灾的办法。火灾也可通过关闭舰船上的氧气供给扑灭，但没了空气，人类船员就需要穿护甲了。
-3657	The hall ahead is filled with fire. You will need to extinguish the flames before you can proceed. Pick up the Fire Extinguisher and equip it just as you did with the Repair Gun. Then approach the edge of the flames and spray cooling mix over the fire.	The hall ahead is filled with fire. You will need to extinguish the flames before you can proceed. Pick up the Fire Extinguisher and equip it just as you did with the Repair Gun. Then approach the edge of the flames and spray cooling mix over the fire.
+3657	The hall ahead is filled with fire. You will need to extinguish the flames before you can proceed. Pick up the Fire Extinguisher and equip it just as you did with the Repair Gun. Then approach the edge of the flames and spray cooling mix over the fire.	前方的大厅被火灾吞噬了。在继续前进之前，你要先扑灭火焰。捡起灭火器，就像你装备修理枪一样装备它。然后靠近火焰的边缘并向火焰喷射冷却混合液。
 3658	Though Sylvassi already wear suits due to their unique environmental needs, they are extremely vulnerable to fire and heat. As such, they still need to wear an exosuit for extra protection in hot and acidic environments. However, they are immune to cold and zero oxygen environments.	Though Sylvassi already wear suits due to their unique environmental needs. they are extremely vulnerable to fire and heat. As such. they still need to wear an exosuit for extra protection in hot and acidic environments. However. they are immune to cold and zero oxygen environments.
 3659	Robots are immune to nearly all hazardous environments and do not need to use exosuits. They will still be harmed by high amounts of radiation.	Robots are immune to nearly all hazardous environments and do not need to use exosuits. They will still be harmed by high amounts of radiation.
 3660	This is an exosuit. Exosuits protect their wearers against hazardous environments: zero oxygen, acidic atmospheres, and extreme hot and cold temperatures. They also reduce radiation exposure but will not fully stop it. While wearing an exosuit, you will run at a slower speed and flight packs (which will be discussed in a later lesson) will not be as effective due to the extra weight.	This is an exosuit. Exosuits protect their wearers against hazardous environments: zero oxygen. acidic atmospheres. and extreme hot and cold temperatures. They also reduce radiation exposure but will not fully stop it. While wearing an exosuit. you will run at a slower speed and flight packs (which will be discussed in a later lesson) will not be as effective due to the extra weight.
@@ -4587,7 +4587,7 @@ ID	Original Text	Translated Text
 4635	COMP TYPE	COMP TYPE
 4636	Description of the ship component	Description of the ship component
 4637	STAT	STAT
-4638	Equip	Equip
+4638	Equip	装备
 4639	Discard$	销毁$
 4640	Item	Item
 4641	Desc	Desc
@@ -4611,7 +4611,7 @@ ID	Original Text	Translated Text
 4659	Desc$	Desc$
 4660	lorem	lorem
 4661	test	test
-4663	EQUIP ITEM	EQUIP ITEM
+4663	EQUIP ITEM	装备物品
 4664	Fire Gun	Fire Gun
 4665	[1] Name	[1] Name
 4666	[2] Name	[2] Name
@@ -5672,7 +5672,7 @@ ID	Original Text	Translated Text
 5808	 (	 (
 5809	Pickup Ammo Clip	Pickup Ammo Clip
 5810	Win Race To Claim Prize: 	Win Race To Claim Prize: 
-5811	Pickup	Pickup
+5811	Pickup	捡起
 5812	Open Ship Log	打开舰船日志
 5813	Open Hatch	Open Hatch
 5814	Access Atomizer	Access Atomizer
@@ -7628,26 +7628,26 @@ ID	Original Text	Translated Text
 8719	 DPS)	 DPS)
 8720	Move Forward	Move Forward
 8721	Move Forward: 	Move Forward: 
-8722	Repair the panel by using the Repair Gun	Repair the panel by using the Repair Gun
-8724	Switch to the Repair Gun by using	Switch to the Repair Gun by using
-8725	or the scroll wheel	or the scroll wheel
-8726	Equip the Repair Gun	Equip the Repair Gun
-8727	Switch to the Inventory Tab	Switch to the Inventory Tab
-8728	Open the Tab menu to equip the Repair Gun	Open the Tab menu to equip the Repair Gun
-8729	Pickup the Repair Gun	Pickup the Repair Gun
-8730	Put out the fires blocking the way	Put out the fires blocking the way
-8731	Switch to the Fire Extinguisher by using	Switch to the Fire Extinguisher by using
-8732	Equip the Fire Extinguisher	Equip the Fire Extinguisher
-8733	Open the Tab menu to equip the Fire Extinguisher	Open the Tab menu to equip the Fire Extinguisher
-8734	Pickup the Fire Extinguisher	Pickup the Fire Extinguisher
+8722	Repair the panel by using the Repair Gun	使用修理枪修理面板
+8724	Switch to the Repair Gun by using	要切换到修理枪，使用
+8725	or the scroll wheel	或鼠标滚轮
+8726	Equip the Repair Gun	装备修理枪
+8727	Switch to the Inventory Tab	切换到库存页
+8728	Open the Tab menu to equip the Repair Gun	打开Tab菜单以装备修理枪
+8729	Pickup the Repair Gun	捡起修理枪
+8730	Put out the fires blocking the way	扑灭阻碍去路的火焰
+8731	Switch to the Fire Extinguisher by using	要切换到灭火器，使用
+8732	Equip the Fire Extinguisher	装备灭火器
+8733	Open the Tab menu to equip the Fire Extinguisher	打开Tab菜单以装备灭火器
+8734	Pickup the Fire Extinguisher	捡起灭火器
 8735	Put on the exosuit, extreme temperatures ahead!	Put on the exosuit, extreme temperatures ahead!
 8736	Take off the exosuit	Take off the exosuit
 8737	Heavy Pistol	Heavy Pistol
 8738	Destroy the ground targets ([STR0] left)	Destroy the ground targets ([STR0] left)
-8739	Switch to the [STR0] by using [[STR1]] or the scroll wheel	Switch to the [STR0] by using [[STR1]] or the scroll wheel
-8740	Equip the	Equip the
-8741	Open the Tab menu to equip the	Open the Tab menu to equip the
-8742	Pickup the	Pickup the
+8739	Switch to the [STR0] by using [[STR1]] or the scroll wheel	通过[[STR1]]或鼠标滚轮切换到[STR0]
+8740	Equip the	装备
+8741	Open the Tab menu to equip the	打开Tab菜单以装备
+8742	Pickup the	捡起
 8743	Double-press	Double-press
 8744	] or 	] or 
 8745	Use jetpack	Use jetpack
@@ -8377,7 +8377,7 @@ ID	Original Text	Translated Text
 9501	$<size=11>	$<size=11>
 9502	total	总计
 9503	Sold	Sold
-9504	(Offline mode)	(Offline mode)
+9504	(Offline mode)	(离线模式)
 9505	ShowInGameControls	ShowInGameControls
 9506	zoom in	zoom in
 9507	zoom out	zoom out
@@ -8609,9 +8609,9 @@ ID	Original Text	Translated Text
 9768	UpdatePIDs	UpdatePIDs
 9769	Change Slot	Change Slot
 9770	Unequip	Unequip
-9771	Drop	Drop
+9771	Drop	丢弃
 9772	 (THIS ITEM)	 (THIS ITEM)
-9773	 (EMPTY)	 (EMPTY)
+9773	 (EMPTY)	 （空）
 9774	[PL] has sent a [[STR0]] to [[STR1]]	[PL] has sent a [[STR0]] to [[STR1]]
 9775	You have recieved a [[STR0]] from [STR1]	You have recieved a [[STR0]] from [STR1]
 9776	No room for component in destination slot	No room for component in destination slot
